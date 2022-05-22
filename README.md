@@ -20,7 +20,6 @@ generated aishell3 content.txt and label_train-set.txt from magicdata trans.txt
 ```
 There's lot's of issue when build own dataset, so here do some summary for it.
 ```
-### Any optional sections
 
 ## Install
 
@@ -33,22 +32,18 @@ This module depends upon a knowledge of [Markdown]().
 
 ## Usage
 
-```
+### transform to label_train-set
  ./transform_trans_to_label_train-set.py TRANS.txt
  label_train-set.txt will be generated at the current folder.
  requirement: pip install pypinyin
               pip install jieba
 			  
-
+### transform to content
  ./transform_trans_to_content.py TRANS.txt
  content.txt will be generated at the current folder.
  requirement: pip install pypinyin
- 
-```
 
 
-
-### Any optional sections
 
 ## API
 
