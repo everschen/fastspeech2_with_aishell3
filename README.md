@@ -1,11 +1,9 @@
-# fastspeech2 with aishell3 training and dataset prepare stuff
+# fastspeech2 with aishell3 training and dataset stuff
 
 ![banner]()
 
 ![badge]()
 ![badge]()
-[![license](https://img.shields.io/github/license/everschen/fastspeech2_with_aishell3)](LICENSE)
-[![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat-square)](https://github.com/everschen/fastspeech2_with_aishell3)
 
 generated aishell3 content.txt and label_train-set.txt from magicdata trans.txt
 
