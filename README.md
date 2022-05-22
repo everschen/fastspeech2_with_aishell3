@@ -8,8 +8,6 @@ generated aishell3 content.txt and label_train-set.txt from magicdata trans.txt
 - [Background](#background)
 - [Install](#install)
 - [Usage](#usage)
-- [API](#api)
-- [Contributing](#contributing)
 - [License](#license)
 
 ## Security
@@ -47,17 +45,6 @@ This module depends upon a knowledge of [Markdown]().
 ```
 
 
-## API
-
-### Any optional sections
-
-## More optional sections
-
-## Contributing
-
-
-
-### Any optional sections
 
 ## License
 
