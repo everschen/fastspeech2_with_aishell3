@@ -1,10 +1,5 @@
 # fastspeech2 with aishell3 training and dataset stuff
 
-![banner]()
-
-![badge]()
-![badge]()
-
 generated aishell3 content.txt and label_train-set.txt from magicdata trans.txt
 
 ## Table of Contents
@@ -49,7 +44,7 @@ This module depends upon a knowledge of [Markdown]().
  
 ```
 
-Note: The `license` badge image link at the top of this file should be updated with the correct `:user` and `:repo`.
+
 
 ### Any optional sections
 
@@ -61,14 +56,10 @@ Note: The `license` badge image link at the top of this file should be updated w
 
 ## Contributing
 
-See [the contributing file](CONTRIBUTING.md)!
 
-PRs accepted.
-
-Small note: If editing the Readme, please conform to the [standard-readme](https://github.com/RichardLitt/standard-readme) specification.
 
 ### Any optional sections
 
 ## License
 
-[MIT © Richard McRichface.](../LICENSE)
+[MIT © Evers Chen.](../LICENSE)
