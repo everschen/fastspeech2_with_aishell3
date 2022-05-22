@@ -17,7 +17,9 @@ generated aishell3 content.txt and label_train-set.txt from magicdata trans.txt
 ### Any optional sections
 
 ## Background
-
+```
+There's lot's of issue when build own dataset, so here do some summary for it.
+```
 ### Any optional sections
 
 ## Install
