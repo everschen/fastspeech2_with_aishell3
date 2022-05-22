@@ -1,0 +1,735 @@
+5_5555_20220306002001|e2 luo2 si1 % zong3 tong3 % pu3 jing1 % si4 ri4 % shuo1 $|俄罗斯%总统%普京%四日%说$
+5_5555_20220306002002|da3 ji1 % wu1 % jing4 nei4 % jun1 shi4 % ji1 chu3 she4 shi1 % de5 % ren4 wu4 % yi3 % jie1 jin4 % wei3 sheng1 $|打击%乌%境内%军事%基础设施%的%任务%已%接近%尾声$
+5_5555_20220306002003|wu1 ke4 lan2 % he2 % e2 luo2 si1 % dai4 biao3 tuan2 % jiang1 % yu2 % qi1 ri4 % ju3 xing2 % di4 san1 lun2 % tan2 pan4 $|乌克兰%和%俄罗斯%代表团%将%于%七日%举行%第三轮%谈判$
+5_5555_20220306002004|shen4 zhi4 % jiang1 % gei3 % zheng3 ge4 % shi4 jie4 % dai4 lai2 % zai1 nan4 xing4 % hou4 guo3 $|甚至%将%给%整个%世界%带来%灾难性%后果$
+5_5555_20220306002005|mei3 guo2 % he2 % qi2 ta1 % xi1 fang1 % guo2 jia1 % dui4 % e2 % shi2 shi1 % zhi4 cai2 % lei4 si4 % yu2 % xuan1 zhan4 $|美国%和%其他%西方%国家%对%俄%实施%制裁%类似%于%宣战$
+5_5555_20220306002006|e2 guo2 fang2 bu4 % zai4 % she4 jiao1 % mei2 ti3 % shang4 % fa1 bu4 % de5 % shi4 pin2 % xian3 shi4 $|俄国防部%在%社交%媒体%上%发布%的%视频%显示$
+5_5555_20220306002007|zhong1 guo2 % yi3 jing1 % cheng2 wei2 % shi4 jie4 % shang4 % ren2 kou3 lao3 ling2 hua4 % su4 du4 % zui4 kuai4 % de5 % guo2 jia1 % zhi1 yi1 $|中国%已经%成为%世界%上%人口老龄化%速度%最快%的%国家%之一$
+5_5555_20220306002008|wei4 le5 % ti2 gao1 % ren2 men5 % de5 % sheng1 yu4 lv4 $|为了%提高%人们%的%生育率$
+5_5555_20220306002009|chu1 tai2 % gu3 li4 % sheng1 yu4 % de5 % xiang1 guan1 % zheng4 ce4 $|出台%鼓励%生育%的%相关%政策$
+5_5555_20220306002010|ti2 sheng1 % ren2 men5 % de5 % sheng1 yu4 % yi4 yuan4 $|提升%人们%的%生育%意愿$
+5_5555_20220306002011|xiang1 guan1 % zheng4 ce4 % ke4 bu4 rong2 huan3 $|相关%政策%刻不容缓$
+5_5555_20220306002012|hen3 duo1 % min2 ying2 % you4 er2 yuan2 % fei4 yong4 % xiang1 dui4 % jiao4 % gao1 $|很多%民营%幼儿园%费用%相对%较%高$
+5_5555_20220306002013|dao3 zhi4 % hen3 duo1 % jia1 ting2 % kao3 lv4 % dao4 % jing1 ji4 % zhi1 chu1 % jiu4 % bu4 % yuan4 yi4 % zai4 duo1 yao4 % hai2 zi5 % le5 $|导致%很多%家庭%考虑%到%经济%支出%就%不%愿意%再多要%孩子%了$
+5_5555_20220306002014|zai4 % zhao4 gu4 % hai2 zi5 % de5 % wen4 ti2 % shang4 $|在%照顾%孩子%的%问题%上$
+5_5555_20220306002015|da4 bu4 fen4 % dou1 % shi4 % shuang1 zhi2 gong1 % jia1 ting2 $|大部分%都%是%双职工%家庭$
+5_5555_20220306002016|mu4 qian2 % pu3 bian4 % zuo4 fa3 % shi4 % ba3 % lao3 ren2 % jie1 guo4 % lai2 % dai4 % hai2 zi5 $|目前%普遍%做法%是%把%老人%接过%来%带%孩子$
+5_5555_20220306002017|suo3 yi3 % nian2 qing1 ren2 % wei4 le5 % jian3 qing1 % lao3 nian2 ren2 % de5 % fu4 dan1 % ye3 % bu4 % yuan4 yi4 % zai4 % ji4 xu4 % sheng1 % hai2 zi5 $|所以%年轻人%为了%减轻%老年人%的%负担%也%不%愿意%再%继续%生%孩子$
+5_5555_20220306002018|zhe4 % ye3 % shi4 % nian2 qing1 ren2 % sheng1 yu4 % yi4 yuan4 % bu4 gao1 % de5 % yuan2 yin1 % zhi1 yi1 $|这%也%是%年轻人%生育%意愿%不高%的%原因%之一$
+5_5555_20220306002019|xi1 wang4 % guo2 jia1 % neng2 gou4 % gei3 % sheng1 yu4 % san1 hai2 % de5 % jia1 ting2 % yu3 yi3 % yi2 ding4 % xing2 shi4 % de5 % bu3 tie1 $|希望%国家%能够%给%生育%三孩%的%家庭%予以%一定%形式%的%补贴$
+5_5555_20220306002020|jiang4 di1 % nian2 qing1 ren2 % de5 % sheng1 yu4 % cheng2 ben3 $|降低%年轻人%的%生育%成本$
+5_5555_20220306002021|bi3 ru2 % chang4 dao3 % di4 san1 % hai2 % mian3 fei4 % shang4 % tuo1 er2 suo3 $|比如%倡导%第三%孩%免费%上%托儿所$
+5_5555_20220306002022|wo3 men5 % ye3 % chang4 dao3 % yi1 xie1 % da4 % dan1 wei4 % ke3 yi3 % wei4 % zhi2 gong1 % ti2 gong1 % mian3 fei4 % de5 % tuo1 you4 % fu2 wu4 $|我们%也%倡导%一些%大%单位%可以%为%职工%提供%免费%的%托幼%服务$
+5_5555_20220306002023|you2 qi2 % shi4 % dui4 % yi1 xie1 % shuang1 zhi2 gong1 % jia1 ting2 $|尤其%是%对%一些%双职工%家庭$
+5_5555_20220306002024|bang1 zhu4 % ta1 men5 % jian3 qing1 fu4 dan1 $|帮助%他们%减轻负担$
+5_5555_20220306002025|dui4 yu2 % zhe4 zhong3 % shi2 ji4 % de5 % you1 hui4 zheng4 ce4 $|对于%这种%实际%的%优惠政策$
+5_5555_20220306002026|yin1 wei4 % ge4 di4 % jing1 ji4 % fa1 zhan3 % zhuang4 tai4 % bu4 tong2 $|因为%各地%经济%发展%状态%不同$
+5_5555_20220306002027|fa1 zhan3 % cheng2 du4 % ye3 % bu4 % yi1 yang4 $|发展%程度%也%不%一样$
+5_5555_20220306002028|ke3 yi3 % you2 % di4 fang1 % zheng4 fu3 % jie2 he2 % zi4 ji3 % de5 % di4 fang1 % shi2 ji4 % qing2 kuang4 % ji3 yu3 % san1 hai2 % jia1 ting2 % zheng4 ce4 % zhi1 chi2 % huo4 % jing1 ji4 % zhi1 chi2 $|可以%由%地方%政府%结合%自己%的%地方%实际%情况%给予%三孩%家庭%政策%支持%或%经济%支持$
+5_5555_20220306002029|jin4 ke3 neng2 jian3 shao3 % hai2 zi5 % yang3 yu4 % fang1 mian4 % de5 % hou4 gu4 zhi1 you1 $|尽可能减少%孩子%养育%方面%的%后顾之忧$
+5_5555_20220306002030|gen1 ju4 % di4 qi1 ci4 % ren2 kou3 pu3 cha2 % jie2 guo3 xian3 shi4 $|根据%第七次%人口普查%结果显示$
+5_5555_20220306002031|dong1 san1 sheng3 % de5 % chu1 sheng1 lv4 % pai2 ming2 % zui4 hou4 $|东三省%的%出生率%排名%最后$
+5_5555_20220306002032|zai4 % zhe4 xie1 % xiang1 dui4 % te4 shu1 % de5 % di4 qu1 $|在%这些%相对%特殊%的%地区$
+5_5555_20220306002033|guo2 jia1 % ke3 yi3 % ji3 yu3 % yi1 xie1 % zheng4 ce4 % qing1 xie2 $|国家%可以%给予%一些%政策%倾斜$
+5_5555_20220306002034|yao4 % rang4 % geng4 % duo1 % jia1 ting2 % yuan4 yi4 % sheng1 $|要%让%更%多%家庭%愿意%生$
+5_5555_20220306002035|hen3 % zhong4 yao4 % de5 % yi1 tiao2 % cuo4 shi1 % bian4 shi4 % tong1 guo4 % shui4 shou1 % shou3 duan4 % gu3 li4 % sheng1 yu4 $|很%重要%的%一条%措施%便是%通过%税收%手段%鼓励%生育$
+5_5555_20220311001001|zhi4 neng2 % ke1 ji4 % hu4 lian2 wang3 % deng3 % xiang1 guan1 % de5 % re4 yi4 % hua4 ti2 $|智能%科技%互联网%等%相关%的%热议%话题$
+5_5555_20220311001002|yin1 wei4 % guan1 hu1 % wei4 lai2 % de5 % fa1 zhan3 % fang1 xiang4 % er2 % bei4 shou4 % guan1 zhu4 $|因为%关乎%未来%的%发展%方向%而%备受%关注$
+5_5555_20220311001003|ke1 ji4 jie4 % qi3 ye4 jia1 % ti2 chu1 % jin4 % wu3 shi2 % fen4 % ke1 ji4 % ti2 an4 $|科技界%企业家%提出%近%五十%份%科技%提案$
+5_5555_20220311001004|ge4 wei4 % ren2 da4 dai4 biao3 % ye3 % bu4 yue1 er2 tong2 % de5 % ti2 ji2 % le5 % shu4 zi4 % jing1 ji4 $|各位%人大代表%也%不约而同%的%提及%了%数字%经济$
+5_5555_20220311001005|ren2 gong1 zhi4 neng2 % deng3 % xiang1 guan1 % hang2 ye4 % yu3 % ling3 yu4 % de5 % fa1 zhan3 % jian4 yan2 $|人工智能%等%相关%行业%与%领域%的%发展%建言$
+5_5555_20220311001006|zuo4 wei2 % guo2 nei4 % shou3 qu1 yi1 zhi3 % de5 % ke1 ji4 % qi3 ye4 $|作为%国内%首屈一指%的%科技%企业$
+5_5555_20220311001007|bai3 du4 % ye3 % shi4 % zhong4 yao4 % can1 yu4 zhe3 $|百度%也%是%重要%参与者$
+5_5555_20220311001008|fen1 bie2 % ju4 jiao1 % zi4 dong4 % jia4 shi3 % zheng4 ce4 % chuang4 xin1 $|分别%聚焦%自动%驾驶%政策%创新$
+5_5555_20220311001009|cu4 jin4 % zhi4 neng2 % jiao1 tong1 % pu3 ji2 % huan3 jie3 % jiao1 tong1 yong1 du3 $|促进%智能%交通%普及%缓解%交通拥堵$
+5_5555_20220311001010|zuo4 wei2 % ren2 gong1 zhi4 neng2 % sai4 dao4 % de5 % dai4 biao3 % xing2 % qi3 ye4 $|作为%人工智能%赛道%的%代表%型%企业$
+5_5555_20220311001011|ping2 guo3 % chun1 ji4 % xin1 pin3 % fa1 bu4 hui4 % ru2 yue1 % er2 % zhi4 $|苹果%春季%新品%发布会%如约%而%至$
+5_5555_20220311001012|wo3 % gan3 dao4 % hen3 % shi1 wang4 $|我%感到%很%失望$
+5_5555_20220311001013|yuan2 yin1 % hen3 % jian3 dan1 $|原因%很%简单$
+5_5555_20220311001014|chan3 pin3 % que1 fa2 % liang4 dian3 $|产品%缺乏%亮点$
+5_5555_20220311001015|jia4 ge2 % que4 % gui4 de2 % li2 pu3 $|价格%却%贵得%离谱$
+5_5555_20220311001016|qi2 % wei2 yi1 % liang4 dian3 % shi4 % da1 zai4 % xin1 pian4 $|其%唯一%亮点%是%搭载%芯片$
+5_5555_20220311001017|zhe4 bi3 % liang3 nian2 % qian2 % ping2 guo3 % tui1 chu1 % de5 $|这比%两年%前%苹果%推出%的$
+5_5555_20220311001018|yi1 zhong4 % guo2 chan3 % an1 zhuo2 ji1 % geng4 shi4 % ke3 yi3 % tiao1 % hua1 yan3 $|一众%国产%安卓机%更是%可以%挑%花眼$
+5_5555_20220311001019|shen4 zhi4 % neng2 % mai3 % dao4 % jin1 nian2 % zui4 xin1 kuan3 % qi2 jian4 ji1 $|甚至%能%买%到%今年%最新款%旗舰机$
+5_5555_20220311001020|bu4 guan3 % ni3 % mai3 % bu4 % mai3 $|不管%你%买%不%买$
+5_5555_20220311001021|ju4 % liao3 jie3 $|据%了解$
+5_5555_20220311001022|guo2 jia1 % qi3 ye4 % ji4 shu4 % zhong1 xin1 % shi4 % you2 % guo2 jia1 % fa1 gai3 wei3 $|国家%企业%技术%中心%是%由%国家%发改委$
+5_5555_20220311001023|que4 li4 % qi3 ye4 % ji4 shu4 chuang4 xin1 % he2 % ke1 ji4 % tou2 ru4 % de5 % zhu3 ti3 % di4 wei4 $|确立%企业%技术创新%和%科技%投入%的%主体%地位$
+5_5555_20220311001024|guo2 jia1 shui4 wu4 zong3 ju2 % lian2 he2 % fu4 ze2 $|国家税务总局%联合%负责$
+5_5555_20220311001025|wei4 % tui1 jin4 % qi3 ye4 % ji4 shu4 % jin4 bu4 $|为%推进%企业%技术%进步$
+5_5555_20220311001026|xi4 tong3 dui4 % qi3 ye4 % zai4 % ji4 shu4 % chuang4 xin1 neng2 li4 % suo3 % jin4 xing2 % de5 $|系统对%企业%在%技术%创新能力%所%进行%的$
+5_5555_20220311001027|zong1 he2 xing4 % ping2 jia4 % xi4 tong3 $|综合性%评价%系统$
+5_5555_20220311001028|ci3 ci4 % zi1 ge2 % bei4 % che4 xiao1 % dui4 % mao2 tai2 % you3 he2 % ying3 xiang3 $|此次%资格%被%撤销%对%茅台%有何%影响$
+5_5555_20220311001029|bai2 jiu3 % hang2 ye4 % fen1 xi1 shi1 % cai4 % xue2 fei1 % fen1 xi1 % ren4 wei2 $|白酒%行业%分析师%蔡%学飞%分析%认为$
+5_5555_20220311001030|shang4 shu4 % zi1 ge2 % shi2 ji4 shang4 % shi4 % dui4 % qi3 ye4 % ke1 yan2 % yan2 fa1 % neng2 li4 % de5 % yi1 zhong3 % ken3 ding4 $|上述%资格%实际上%是%对%企业%科研%研发%能力%的%一种%肯定$
+5_5555_20220311001031|you3 % yi2 ding4 % de5 % pin3 pai2 % bei4 shu1 $|有%一定%的%品牌%背书$
+5_5555_20220311001032|pin3 zhi4 % bei4 shu1 % yu3 % xuan1 chuan2 % zuo4 yong4 $|品质%背书%与%宣传%作用$
+5_5555_20220311001033|shang4 shu4 % ping2 jia4 % zhi3 shi4 % hang2 ye4 % nei4 % de5 % yi2 ge4 % huo2 dong4 $|上述%评价%只是%行业%内%的%一个%活动$
+5_5555_20220311001034|geng4 % duo1 % de5 % shi4 % yi1 zhong3 % ji4 shu4 % fang1 xiang4 % de5 % ping2 jia4 $|更%多%的%是%一种%技术%方向%的%评价$
+5_5555_20220311001035|ke3 neng2 % yu3 qi2 % zui4 jin4 % ji3 nian2 % de5 % ying2 xiao1 % tiao2 zheng3 % gai3 ge2 % you3 guan1 $|可能%与其%最近%几年%的%营销%调整%改革%有关$
+5_5555_20220311001036|dan4 % bing4 % bu4 % dai4 biao3 % zhe5 % mao2 tai2 % de5 % yan2 fa1 % neng2 li4 % jian3 ruo4 % le5 $|但%并%不%代表%着%茅台%的%研发%能力%减弱%了$
+5_5555_20220311001037|bai2 jiu3 % zhuan1 jia1 $|白酒%专家$
+5_5555_20220311001038|chang2 cheng2 % pu2 tao2 jiu3 % tong2 yang4 % bei4 % che4 xiao1 % guo2 jia1 % qi3 ye4 % ji4 shu4 % zhong1 xin1 % zi1 ge2 $|长城%葡萄酒%同样%被%撤销%国家%企业%技术%中心%资格$
+5_5555_20220311001039|yu3 % jiu3 lei4 % xiang1 guan1 % de5 % guo2 jia1 % qi3 ye4 % ji4 shu4 % zhong1 xin1 $|与%酒类%相关%的%国家%企业%技术%中心$
+5_5555_20220311001040|dang1 % bei4 % wen4 ji2 % nian2 qing1 ren2 % zhi2 ye4 % xuan3 ze2 % fang1 mian4 % de5 % wen4 ti2 % shi2 $|当%被%问及%年轻人%职业%选择%方面%的%问题%时$
+5_5555_20220311001041|dong3 ming2 zhu1 % hui2 ying4 % cheng1 % shi2 dai4 % yi3 jing1 % bian4 % le5 $|董明珠%回应%称%时代%已经%变%了$
+5_5555_20220311001042|ying1 gai1 % rang4 % nian2 qing1 ren2 % xuan3 ze2 % xi3 huan1 % gan4 de5 shi4 $|应该%让%年轻人%选择%喜欢%干的事$
+5_5555_20220311001043|ta1 % hai2 % quan4 gao4 % nian2 qing1 ren2 $|她%还%劝告%年轻人$
+5_5555_20220311001044|ren2 sheng1 % ying1 dang1 % you3 % gui1 hua4 $|人生%应当%有%规划$
+5_5555_20220311001045|wei4 lai2 % xiang3 % cheng2 wei2 % yi2 ge4 % shen2 me5 yang4 % de5 % ren2 $|未来%想%成为%一个%什么样%的%人$
+5_5555_20220311001046|yao4 % gei3 % zi4 ji3 % yi2 ge4 % ding4 wei4 $|要%给%自己%一个%定位$
+5_5555_20220311001047|zhui1 qiu2 % yan3 xia4 % shou1 ru4 % duo1 $|追求%眼下%收入%多$
+5_5555_20220311001048|hai2 shi4 % xiang3 % zhui1 qiu2 % zi4 you2 $|还是%想%追求%自由$
+5_5555_20220311001049|yi2 ding4 % yao4 % you3 % si1 kao3 $|一定%要%有%思考$
+5_5555_20220311001050|dong3 ming2 zhu1 % hai2 % biao3 shi4 $|董明珠%还%表示$
+5_5555_20220311001051|gai1 % qi3 ye4 jia1 % si1 kao3 % de5 % wen4 ti2 $|该%企业家%思考%的%问题$
+5_5555_20220311001052|bu2 yao4 % bian4 cheng2 % rang4 % yuan2 gong1 % qu4 % si1 kao3 $|不要%变成%让%员工%去%思考$
+5_5555_20220311001053|yuan2 gong1 % xiang3 zhe5 % de5 % shi4 % ni3 % duo1 fa1 % dian3 qian2 $|员工%想着%的%是%你%多发%点钱$
+5_5555_20220311001054|ru2 guo3 % zhe4 % liang3 ge4 % ren2 % huan4 wei4 % si1 kao3 % jiu4 % hao3 % le5 $|如果%这%两个%人%换位%思考%就%好%了$
+5_5555_20220311001055|qi3 ye4 jia1 % xiang3 zhe5 % gei3 % yuan2 gong1 % duo1 fa1 % gong1 zi1 $|企业家%想着%给%员工%多发%工资$
+5_5555_20220311001056|yuan2 gong1 % xiang3 zhe5 % duo1 wei4 % qi3 ye4 % zuo4 % gong4 xian4 $|员工%想着%多为%企业%做%贡献$
+5_5555_20220311001057|dong3 ming2 zhu1 % zai4 % jie1 shou4 % zhong1 guo2 % guo2 ji4 % dian4 shi4 tai2 % ji4 zhe3 % zhuan1 fang3 % shi2 % biao3 shi4 $|董明珠%在%接受%中国%国际%电视台%记者%专访%时%表示$
+5_5555_20220311001058|jian4 yi4 % jiang1 % ge4 % shui4 % qi3 zheng1 dian3 % you2 % wu3 qian1 yuan2 % mei3 yue4 % ti2 sheng1 % zhi4 % yi1 wan4 yuan2 % mei3 yue4 $|建议%将%个%税%起征点%由%五千元%每月%提升%至%一万元%每月$
+5_5555_20220311001059|xi1 wang4 % ke3 yi3 % tong1 guo4 % shui4 kuan3 % tiao2 jie2 % de5 % fang1 shi4 $|希望%可以%通过%税款%调节%的%方式$
+5_5555_20220311001060|ti2 sheng1 % gong1 xin1 % jia1 ting2 % de5 % xing4 fu2 gan3 $|提升%工薪%家庭%的%幸福感$
+5_5555_20220311001061|dong3 ming2 zhu1 % ren4 wei2 % ke3 yi3 % rang4 % shou1 ru4 % gao1 % de5 % fu4 ren2 % duo1 % jiao1 shui4 $|董明珠%认为%可以%让%收入%高%的%富人%多%交税$
+5_5555_20220311001062|rang4 % qi3 ye4 % tong1 guo4 % fa1 zhan3 % sheng1 chan3 % lai2 % chuang4 zao4 % geng4 % duo1 % shui4 shou1 $|让%企业%通过%发展%生产%来%创造%更%多%税收$
+5_5555_20220311001063|ling3 pao3 % ben1 % xiang4 % gong4 tong2 fu4 yu4 % zhi1 % lu4 $|领跑%奔%向%共同富裕%之%路$
+5_5555_20220311001064|shi4 % hang2 zhou1 % de5 % zheng4 zhi4 ze2 ren4 % geng4 shi4 % li4 shi3 shi3 ming4 $|是%杭州%的%政治责任%更是%历史使命$
+5_5555_20220311001065|hang2 zhou1 % gong4 tong2 fu4 yu4 % shi4 fan4 qu1 $|杭州%共同富裕%示范区$
+5_5555_20220311001066|yin3 dao3 % jin1 rong2 ji1 gou4 % jia1 qiang2 % zi1 ben3 % yao4 su4 % bao3 zhang4 $|引导%金融机构%加强%资本%要素%保障$
+5_5555_20220311001067|chong1 fen4 fa1 hui1 % jin1 rong2 $|充分发挥%金融$
+5_5555_20220311001068|guo2 jia1 kai1 fa1 yin2 hang2 % zhe4 jiang1 sheng3 % fen1 hang2 $|国家开发银行%浙江省%分行$
+5_5555_20220311001069|cheng2 shi4 % fan4 li4 % de5 % zhan4 lve4 % zhi1 chi2 % zuo4 yong4 $|城市%范例%的%战略%支持%作用$
+5_5555_20220311001070|gong1 shang1 yin2 hang2 % jiang1 % ti2 gong1 % bu4 % di1 yu2 % liang3 qian1 % yi4 yuan2 % de5 % rong2 zi1 % e2 du4 $|工商银行%将%提供%不%低于%两千%亿元%的%融资%额度$
+5_5555_20220311001071|nong2 ye4 yin2 hang2 % jiang1 % she4 li4 % zhong4 yao4 % chuang1 kou3 $|农业银行%将%设立%重要%窗口$
+5_5555_20220311001072|zong1 he2 xing4 % rong2 zi1 % zhi1 chi2 $|综合性%融资%支持$
+5_5555_20220311001073|zai4 % cu4 jin4 % shi2 xian4 % gong4 tong2 fu4 yu4 % de5 % dao4 lu4 % shang4 $|在%促进%实现%共同富裕%的%道路%上$
+5_5555_20220311001074|ji1 ji2 kai1 zhan3 % dui4 kou3 % bang1 fu2 $|积极开展%对口%帮扶$
+5_5555_20220311001075|zi1 yuan2 % dui4 jie1 $|资源%对接$
+5_5555_20220311001076|hu4 li4 % gong4 ying2 % he2 zuo4 $|互利%共赢%合作$
+5_5555_20220311001077|zai4 % hang2 % yin2 hang2 % ye3 % jiang1 % jia1 da4 % dai4 kuan3 % tou2 fang4 % li4 du4 $|在%杭%银行%也%将%加大%贷款%投放%力度$
+5_5555_20220311001078|you3 li4 % bao3 zhang4 % xiang4 mu4 % tui1 jin4 % luo4 shi2 $|有力%保障%项目%推进%落实$
+5_5555_20220311001079|hang2 zhou1 % dui4 % ji1 chu3 she4 shi1 % jian4 she4 $|杭州%对%基础设施%建设$
+5_5555_20220311001080|hang2 zhou1 % jin1 rong2 ye4 % ye3 % jiang1 % zai4 % zhi1 cheng1 % gao1 zhi4 liang4 % fa1 zhan3 $|杭州%金融业%也%将%在%支撑%高质量%发展$
+5_5555_20220311001081|xie2 tiao2 % qu1 yu4 % fa1 zhan3 $|协调%区域%发展$
+5_5555_20220311001082|jin1 rong2 % zi1 yuan2 % bao3 zhang4 % deng3 % fang1 mian4 % chi2 xu4 % fa1 li4 $|金融%资源%保障%等%方面%持续%发力$
+5_5555_20220311001083|da3 zao4 % you3 % hang2 zhou1 % te4 se4 % de5 % quan2 % sheng1 ming4 zhou1 qi1 % ke1 ji4 % jin1 rong2 % sheng1 tai4 $|打造%有%杭州%特色%的%全%生命周期%科技%金融%生态$
+5_5555_20220311001084|shuai4 xian1 % tan4 suo3 % shi2 xian4 % gao1 zhi4 liang4 % fa1 zhan3 % de5 % you3 xiao4 % lu4 jing4 $|率先%探索%实现%高质量%发展%的%有效%路径$
+5_5555_20220311001085|shi4 % fa1 gai3 wei3 % xiang1 guan1 % fu4 ze2 ren2 % biao3 shi4 $|市%发改委%相关%负责人%表示$
+5_5555_20220311001086|jian4 she4 % ju4 you3 % guo2 ji4 % jing4 zheng1 li4 % de5 % xian4 dai4 % chan3 ye4 % ti3 xi4 $|建设%具有%国际%竞争力%的%现代%产业%体系$
+5_5555_20220311001087|leng3 dong4 % shui3 chan3 pin3 % jin4 kou3 % bao4 guan1 % qian2 % xu1 yao4 % bao4 jian3 $|冷冻%水产品%进口%报关%前%需要%报检$
+5_5555_20220311001088|jian3 yan4 % jian3 yi4 % xu1 yao4 % de5 % zi1 liao4 $|检验%检疫%需要%的%资料$
+5_5555_20220311001089|guo2 wai4 % chan3 di4 zheng4 $|国外%产地证$
+5_5555_20220311001090|guo2 wai4 % wei4 sheng1 % zheng4 shu1 $|国外%卫生%证书$
+5_5555_20220311001091|biao1 qian1 % nei4 rong2 % zhong1 wen2 fan1 yi4 $|标签%内容%中文翻译$
+5_5555_20220311001092|chan3 pin3 % biao1 qian1 % yang4 zhang1 $|产品%标签%样张$
+5_5555_20220311001093|dong4 pin3 % zen3 me5 % jin4 kou3 $|冻品%怎么%进口$
+5_5555_20220311001094|shou3 xian1 $|首先$
+5_5555_20220311001095|xian1 % cha2 xun2 % cai3 gou4 % guo2 % de5 % dong4 pin3 % shi4 fou3 % zai4 % wo3 guo2 % shi4 % zhun3 ru4 % zhuang4 tai4 $|先%查询%采购%国%的%冻品%是否%在%我国%是%准入%状态$
+5_5555_20220311001096|qi2 ci4 $|其次$
+5_5555_20220311001097|chu1 kou3 % de5 % gong1 ying4 shang1 % xu1 zai4 hua2 % bei4 an4 $|出口%的%供应商%需在华%备案$
+5_5555_20220311001098|huo4 de2 % shu1 hua2 % de5 % dong4 pin3 % zheng4 ming2 $|获得%输华%的%冻品%证明$
+5_5555_20220311001099|guo2 wai4 % gong1 ying4 shang1 % ti2 gong1 % yuan2 chan3 di4 % zheng4 $|国外%供应商%提供%原产地%证$
+5_5555_20220311001100|guo2 nei4 % de5 % shou1 huo4 ren2 % xu1 yao4 % huo4 de2 % jin4 chu1 kou3 % quan2 $|国内%的%收货人%需要%获得%进出口%权$
+5_5555_20220311003001|guo2 nei4 % shou1 huo4 ren2 % xu1 zai4 % guo2 jia1 % zhi4 jian3 % zong3 ju2 % jin4 xing2 % bei4 an4 $|国内%收货人%需在%国家%质检%总局%进行%备案$
+5_5555_20220311003002|bing4 % you3 % cong2 shi4 % rou4 lei4 % xiao1 shou4 % sheng1 chan3 % deng3 % fan4 wei2 $|并%有%从事%肉类%销售%生产%等%范围$
+5_5555_20220311003003|wan2 cheng2 % yi3 shang4 % si4 bu4 % hou4 $|完成%以上%四步%后$
+5_5555_20220311003004|guo2 wai4 % jiang1 % huo4 wu4 % fa1 dao4 % zhong1 guo2 % gang3 kou3 $|国外%将%货物%发到%中国%港口$
+5_5555_20220311003005|dao4 % chuan2 % gong1 si1 % huan4 dan1 $|到%船%公司%换单$
+5_5555_20220311003006|zhun3 bei4 % bao4 jian3 % de5 % xiang1 guan1 % zi1 liao4 % bing4 % bao4 jian3 $|准备%报检%的%相关%资料%并%报检$
+5_5555_20220311003007|zuo4 % he2 suan1 % jian3 ce4 $|做%核酸%检测$
+5_5555_20220311003008|ping2 % ru4 jing4 % huo4 wu4 % tong1 guan1 % dan1 $|凭%入境%货物%通关%单$
+5_5555_20220311003009|ti2 dan1 % deng3 % qing1 guan1 $|提单%等%清关$
+5_5555_20220311003010|hai3 guan1 % shou4 li3 % shen3 jia4 % jiao1 shui4 $|海关%受理%审价%交税$
+5_5555_20220311003011|huo4 che1 % si1 ji1 % dao4 % ma3 tou2 % ti2 gui4 $|货车%司机%到%码头%提柜$
+5_5555_20220311003012|jiao1 qing1 % chuan2 % gong1 si1 % fei4 yong4 $|交清%船%公司%费用$
+5_5555_20220311003013|jiang1 % huo4 wu4 % song4 dao4 % ke4 hu4 % shou3 shang4 $|将%货物%送到%客户%手上$
+5_5555_20220311003014|zuo4 % he2 suan1 % ke3 neng2 % xu1 yao4 % ji3 ci4 $|做%核酸%可能%需要%几次$
+5_5555_20220311003015|ke3 neng2 % xu1 yao4 % de5 % cheng2 ben3 % jiao4 % gao1 $|可能%需要%的%成本%较%高$
+5_5555_20220311003016|jin4 kou3 % bao4 guan1 % shi2 xu1 % ti2 gong1 % yuan2 chan3 di4 % zheng4 $|进口%报关%时需%提供%原产地%证$
+5_5555_20220311003017|wu3 hou4 % huang2 jin1 % zou3 ruo4 $|午后%黄金%走弱$
+5_5555_20220311003018|hang2 qing2 % ci4 po4 % zuo2 tian1 % di1 dian3 $|行情%刺破%昨天%低点$
+5_5555_20220311003019|hen3 % bu4 xing4 % wo3 men5 % shou3 zhong1 % de5 % duo1 dan1 $|很%不幸%我们%手中%的%多单$
+5_5555_20220311003020|dui4 yu2 % mu4 qian2 % de5 % hang2 qing2 % lai2 shuo1 $|对于%目前%的%行情%来说$
+5_5555_20220311003021|zhong4 dian3 % guan1 zhu4 % qian2 % yi1 gen1 % si4 % xiao3 shi2 % tu2 % gao1 dian3 $|重点%关注%前%一根%四%小时%图%高点$
+5_5555_20220311003022|na4 % jiu4 % ji1 ben3 shang4 % que4 ding4 % jian4 di3 % le5 $|那%就%基本上%确定%见底%了$
+5_5555_20220311003023|fou3 ze2 % hang2 qing2 % hai2 you3 % ke3 neng2 % xia4 po4 $|否则%行情%还有%可能%下破$
+5_5555_20220311003024|suo3 yi3 % cao1 zuo4 % shang4 $|所以%操作%上$
+5_5555_20220311003025|xian4 zai4 % jian4 yi4 $|现在%建议$
+5_5555_20220311003026|shi2 jiu3 dian3 % hou4 % mei2 you3 % ming2 xian3 % die1 shi4 $|十九点%后%没有%明显%跌势$
+5_5555_20220311003027|ze2 % chu1 ju2 % zai4 % qu4 % zuo4 % duo1 $|则%出局%再%去%做%多$
+5_5555_20220311003028|mei3 jing1 % ji4 zhe3 $|每经%记者$
+5_5555_20220311003029|dong1 hai3 % zheng4 quan4 % fa1 bu4 % le5 $|东海%证券%发布%了$
+5_5555_20220311003030|shen1 qing3 % gong1 kai1 % fa1 xing2 gu3 piao4 $|申请%公开%发行股票$
+5_5555_20220311003031|bing4 % zai4 % shang4 jiao1 suo3 % shang4 shi4 % fu3 dao3 % bei4 an4 % gong1 gao4 $|并%在%上交所%上市%辅导%备案%公告$
+5_5555_20220311003032|gong1 gao4 % xian3 shi4 $|公告%显示$
+5_5555_20220311003033|dong1 hai3 % zheng4 quan4 % yu3 % zhong1 xin4 % jian4 tou2 % qian1 ding4 % le5 $|东海%证券%与%中信%建投%签订%了$
+5_5555_20220311003034|guan1 yu2 % dong1 hai3 % zheng4 quan4 % gu3 fen4 % you3 xian4 gong1 si1 $|关于%东海%证券%股份%有限公司$
+5_5555_20220311003035|shou3 ci4 % gong1 kai1 % fa1 xing2 gu3 piao4 % bing4 % shang4 shi4 % zhi1 % fu3 dao3 % xie2 yi4 $|首次%公开%发行股票%并%上市%之%辅导%协议$
+5_5555_20220311003036|mei3 ri4 % jing1 ji4 % xin1 wen2 $|每日%经济%新闻$
+5_5555_20220311003037|zi1 ben3 % bang1 % liao3 jie3 % dao4 $|资本%邦%了解%到$
+5_5555_20220311003038|gong1 si1 % yu2 % jin4 ri4 % shou1 dao4 % can1 gu3 % zi5 gong1 si1 $|公司%于%近日%收到%参股%子公司$
+5_5555_20220311003039|qian2 zai4 % jiao1 yi4 % de5 % ping2 gu1 % cheng2 xu4 % yi3 % qi3 dong4 $|潜在%交易%的%评估%程序%已%启动$
+5_5555_20220311003040|shi4 % gai1 % qian2 zai4 % jiao1 yi4 % de5 % can1 yu4 fang1 % zhi1 yi1 $|是%该%潜在%交易%的%参与方%之一$
+5_5555_20220311003041|ru2 % qian2 zai4 % jiao1 yi4 % shi2 shi1 % wan2 bi4 $|如%潜在%交易%实施%完毕$
+5_5555_20220311003042|bing4 % dao3 zhi4 % chu1 shou4 % qi2 % jian4 jie1 % chi2 you3 % de5 % quan2 bu4 % huo4 % bu4 fen4 % gu3 fen4 $|并%导致%出售%其%间接%持有%的%全部%或%部分%股份$
+5_5555_20220311003043|jiang1 % ke3 neng2 % dui4 % gong1 si1 % de5 % cai2 wu4 zhuang4 kuang4 % he2 % jing1 ying2 % ye4 ji4 % chan3 sheng1 % zhong4 da4 % zheng4 mian4 % ying3 xiang3 $|将%可能%对%公司%的%财务状况%和%经营%业绩%产生%重大%正面%影响$
+5_5555_20220311003044|shi2 ji4 % ying3 xiang3 % yi3 % gong1 si1 % hou4 xu4 % shen3 ji4 bao4 gao4 % jie2 lun4 % wei4 zhun3 $|实际%影响%以%公司%后续%审计报告%结论%为准$
+5_5555_20220311003045|ju4 ren2 % wang3 luo4 % biao3 shi4 $|巨人%网络%表示$
+5_5555_20220311003046|ben3 ci4 % qian2 zai4 % jiao1 yi4 % jin3 wei4 % chu1 bu4 % yi4 xiang4 $|本次%潜在%交易%仅为%初步%意向$
+5_5555_20220311003047|neng2 fou3 % cheng2 jiao1 $|能否%成交$
+5_5555_20220311003048|jiao1 yi4 % dui4 shou3 % jiao1 yi4 % shi2 jian1 % jiao1 yi4 jia4 ge2 % jun1 % cun2 zai4 % bu4 que4 ding4 xing4 $|交易%对手%交易%时间%交易价格%均%存在%不确定性$
+5_5555_20220311003049|zai4 % que4 ding4 % chu1 shou4 % de5 % ju4 ti3 % jiao1 yi4 % fang1 an4 % hou4 $|在%确定%出售%的%具体%交易%方案%后$
+5_5555_20220311003050|gong1 si1 % jiang1 % an4 % xiang1 guan1 % fa3 lv4 fa3 gui1 % de5 % yao1 qiu2 $|公司%将%按%相关%法律法规%的%要求$
+5_5555_20220311003051|lv3 xing2 % xiang1 guan1 % shen3 pi1 % cheng2 xu4 % ji2 % pi1 lu4 % yi4 wu4 $|履行%相关%审批%程序%及%披露%义务$
+5_5555_20220311003052|zheng4 quan4 shi2 bao4 $|证券时报$
+5_5555_20220311003053|tai2 % hua2 xin1 % cai2 % wan3 jian1 % fa1 bu4 % ye4 ji4 % kuai4 bao4 $|台%华新%材%晚间%发布%业绩%快报$
+5_5555_20220311003054|er4 ling2 er4 % yi1 nian2 % ying2 ye4 % shou1 ru4 % wei4 $|二零二%一年%营业%收入%为$
+5_5555_20220311003055|tong2 bi3 % zeng1 zhang3 $|同比%增长$
+5_5555_20220311003056|jing4 li4 run4 $|净利润$
+5_5555_20220311003057|ji1 ben3 % mei3 gu3 % shou1 yi4 $|基本%每股%收益$
+5_5555_20220311003058|gong1 si1 % fa1 hui1 % quan2 % chan3 ye4 lian4 % you1 shi4 % he2 % cha1 yi4 hua4 % jing4 zheng1 % you1 shi4 $|公司%发挥%全%产业链%优势%和%差异化%竞争%优势$
+5_5555_20220311003059|gui1 mo2 % he2 % pin3 pai2 xiao4 ying4 % zhu2 bu4 % xian3 xian4 $|规模%和%品牌效应%逐步%显现$
+5_5555_20220311003060|zhi4 neng2 hua4 % nian2 chan3 % shi2 er4 % wan4 dun1 $|智能化%年产%十二%万吨$
+5_5555_20220311003061|gao1 xing4 neng2 % huan2 bao3 % xian1 wei2 % xiang4 mu4 $|高性能%环保%纤维%项目$
+5_5555_20220311003062|zhu2 bu4 % tou2 chan3 % dai4 lai2 % zhu3 ying2 ye4 wu4 % shou1 ru4 % zeng1 zhang3 % he2 % mao2 li4 lv4 % ti2 sheng1 $|逐步%投产%带来%主营业务%收入%增长%和%毛利率%提升$
+5_5555_20220311003063|jing1 ying2 % ye4 ji4 % kuai4 su4 zeng1 zhang3 $|经营%业绩%快速增长$
+5_5555_20220311003064|zuo2 tian1 $|昨天$
+5_5555_20220311003065|li3 xiang3 % qi4 che1 % de5 % guan1 fang1 % wei1 bo2 $|理想%汽车%的%官方%微博$
+5_5555_20220311003066|gong1 bu4 % le5 % ta1 men5 % de5 % di4 er4 kuan3 % che1 xing2 $|公布%了%他们%的%第二款%车型$
+5_5555_20220311003067|zhe4 shi4 % yi1 kuan3 % tong2 yang4 % zhu3 da3 % jia1 ting2 % de5 $|这是%一款%同样%主打%家庭%的$
+5_5555_20220311003068|zhong4 dian3 % fang4 % qian2 mian4 $|重点%放%前面$
+5_5555_20220311003069|jia4 ge2 % yu4 ji4 % shi4 % zai4 % si4 shi2 wu3 % dao4 % wu3 shi2 wan4 yuan2 % zhe4 ge4 % qu1 jian1 $|价格%预计%是%在%四十五%到%五十万元%这个%区间$
+5_5555_20220311003070|fei4 hua4 shao3 shuo1 $|废话少说$
+5_5555_20220311003071|wo3 men5 % lai2 % fang4 da4 % tu2 pian4 $|我们%来%放大%图片$
+5_5555_20220311003072|lai2 % kan4 kan4 % cong2 % zhe4 % liang3 zhang1 % guan1 % tu2 li3 % neng2 % kan4 chu1 % nei3 xie1 % xin4 xi1 $|来%看看%从%这%两张%官%图里%能%看出%哪些%信息$
+5_5555_20220311003073|qu3 xiao1 % le5 % yi2 biao3 pan2 % ping2 mu4 $|取消%了%仪表盘%屏幕$
+5_5555_20220311003074|fang4 da4 % lai2 kan4 $|放大%来看$
+5_5555_20220311003075|mu4 ce4 % de2 % you3 % shi2 cun4 % yi3 shang4 $|目测%得%有%十寸%以上$
+5_5555_20220311003076|di4 yi1 % yan3 kan4 % guo4 qu4 $|第一%眼看%过去$
+5_5555_20220311003077|bing4 yong4 % yi2 ge4 % da4 % chi3 cun4 % qu3 dai4 $|并用%一个%大%尺寸%取代$
+5_5555_20220311003078|chi3 cun4 % bu4 xiao3 $|尺寸%不小$
+5_5555_20220311003079|xian3 shi4 % nei4 rong2 % bao1 kuo4 % dao3 hang2 % xin4 xi1 $|显示%内容%包括%导航%信息$
+5_5555_20220311003080|che1 dao4 % xin4 xi1 % xian4 su4 $|车道%信息%限速$
+5_5555_20220311003081|zai4 % pang2 bian1 % de5 % ke3 neng2 % shi4 % ding4 su4 xun2 hang2 % de5 % che1 su4 % xin4 xi1 $|在%旁边%的%可能%是%定速巡航%的%车速%信息$
+5_5555_20220311003082|dang1 qian2 % che1 su4 % xin4 xi1 % yi3 ji2 % dang1 qian2 % dang3 wei4 $|当前%车速%信息%以及%当前%挡位$
+5_5555_20220311003083|he2 % te4 si1 la1 % zhi2 jie1 % qu3 xiao1 % diao4 % yi2 biao3 pan2 % xiang1 bi3 $|和%特斯拉%直接%取消%掉%仪表盘%相比$
+5_5555_20220311003084|zhe4 zhong3 % qu3 xiao1 % ye4 jing1 % yi2 biao3 $|这种%取消%液晶%仪表$
+5_5555_20220311003085|geng1 huan4 % wei4 % ping2 guo3 % de5 % fang1 an4 $|更换%为%苹果%的%方案$
+5_5555_20220311003086|xian3 ran2 % shi4 % da4 duo1 shu4 % ren2 % geng4 % neng2 % jie1 shou4 % de5 $|显然%是%大多数%人%更%能%接受%的$
+5_5555_20220311003087|xia4 fang1 % de5 % fang1 xiang4 pan2 % qu1 yu4 $|下方%的%方向盘%区域$
+5_5555_20220311003088|zhong1 jian1 % zhe4 bu4 fen4 % zao4 xing2 % she4 ji4 % you3 % yi4 dian3 er2 % qi2 guai4 $|中间%这部分%造型%设计%有%一点儿%奇怪$
+5_5555_20220311003089|you3 % yi2 ge4 % hen3 da4 % de5 % liu2 bai2 $|有%一个%很大%的%留白$
+5_5555_20220311003090|hao3 xiang4 % neng2 % chu4 mo1 % yi1 yang4 $|好像%能%触摸%一样$
+5_5555_20220311003091|bu4 % zhi1 dao4 % shi4 % gu4 yi4 % zhe4 yang4 % hai2 shi4 % zhe4 % zhong1 jian1 % an4 cang2 xuan2 ji1 $|不%知道%是%故意%这样%还是%这%中间%暗藏玄机$
+5_5555_20220311003092|de2 % deng3 % li3 xiang3 % hou4 xu4 % xin4 xi1 % de5 % bao4 guang1 $|得%等%理想%后续%信息%的%曝光$
+5_5555_20220311003093|wo3 men5 % cai2 neng2 % zhi1 dao4 % da2 an4 $|我们%才能%知道%答案$
+5_5555_20220311003094|zuo3 you4 ce4 % de5 % duo1 gong1 neng2 % an4 jian4 % shi4 % yi2 ge4 % xiang1 dui4 % bi3 jiao4 % chang2 gui1 % de5 % zao4 xing2 $|左右侧%的%多功能%按键%是%一个%相对%比较%常规%的%造型$
+5_5555_20220311003095|bu4 guo4 % zai4 % shang4 mian4 % zhe4 % yi1 kuai4 % hei1 se4 % de5 % qu1 yu4 $|不过%在%上面%这%一块%黑色%的%区域$
+5_5555_20220311003096|ju4 % zhi1 qian2 % bao4 liao4 % de5 % jia3 xiang3 % tu2 % xin4 xi1 $|据%之前%爆料%的%假想%图%信息$
+5_5555_20220311003097|zhe4 % yi1 kuai4 % de5 % gong1 neng2 % ju4 shuo1 % shi4 % gen1 % ping2 guo3 $|这%一块%的%功能%据说%是%跟%苹果$
+5_5555_20220311003098|you3 xie1 % lei4 si4 $|有些%类似$
+5_5555_20220311003099|ke3 yi3 % cao1 kong4 % yi1 xie1 % che1 kong4 % gong1 neng2 $|可以%操控%一些%车控%功能$
+5_5555_20220311003100|bi3 ru2 % zi4 dong4 % bo2 che1 % kai1 qi3 $|比如%自动%泊车%开启$
+5_5555_20220311004001|zui4 jin4 % yi1 duan4 shi2 jian1 $|最近%一段时间$
+5_5555_20220311004002|yin1 shou4 % guo2 ji4 % you2 jia4 % tiao2 zheng3 % ying3 xiang3 $|因受%国际%油价%调整%影响$
+5_5555_20220311004003|qi4 you2 % cheng2 pin3 you2 % jia4 ge2 % bu4 duan4 % pan1 sheng1 $|汽油%成品油%价格%不断%攀升$
+5_5555_20220311004004|you2 jia4 % ye3 % shou4 dao4 % bu4 shao3 % che1 zhu3 % de5 % guan1 zhu4 $|油价%也%受到%不少%车主%的%关注$
+5_5555_20220311004005|si4 chuan1 % guang3 an1 % yi1 ming2 % er4 shi2 ba1 sui4 % xiao3 huo3 $|四川%广安%一名%二十八岁%小伙$
+5_5555_20220311004006|jiu4 % yin1 wei4 % xian2 % jia1 you2 % tai4 gui4 $|就%因为%嫌%加油%太贵$
+5_5555_20220311004007|jue2 ding4 % qu4 % tou1 % bie2 ren2 % che1 li3 % de5 % you2 $|决定%去%偷%别人%车里%的%油$
+5_5555_20220311004008|qi2 zhong1 % yi1 wei4 % che1 zhu3 % yin1 % you2 xiang1 gai4 % huai4 % le5 $|其中%一位%车主%因%油箱盖%坏%了$
+5_5555_20220311004009|bei4 % tou1 you2 % de5 % xiao3 huo3 % xian1 hou4 % si4 ci4 % tou1 zou3 $|被%偷油%的%小伙%先后%四次%偷走$
+5_5555_20220311004010|hong2 xing1 % xin1 wen2 ji4 zhe3 % cong2 % si4 chuan1 % guang3 an1 shi4 % guang3 an1 qu1 % jing3 fang1 % huo4 xi1 $|红星%新闻记者%从%四川%广安市%广安区%警方%获悉$
+5_5555_20220311004011|xian2 yi2 % nan2 zi5 % wang2 mou3 % mu4 qian2 % yi3 % bei4 % jing3 fang1 % yi1 fa3 % xing2 shi4 ju1 liu2 $|嫌疑%男子%王某%目前%已%被%警方%依法%刑事拘留$
+5_5555_20220311004012|xian2 yi2 ren2 % wang2 mou3 % xie2 dai4 % gong1 ju4 % tou1 you2 $|嫌疑人%王某%携带%工具%偷油$
+5_5555_20220311004013|ju4 % ban4 an4 % min2 jing3 % jie4 shao4 $|据%办案%民警%介绍$
+5_5555_20220311004014|wang2 mou3 % zai4 % gei3 % zi4 ji3 % de5 % qi4 che1 % jia1 you2 % shi2 $|王某%在%给%自己%的%汽车%加油%时$
+5_5555_20220311004015|fa1 xian4 % qi4 you2 jia4 ge2 % shang4 zhang3 % le5 $|发现%汽油价格%上涨%了$
+5_5555_20220311004016|kan4 % le5 % kan4 % zi4 ji3 % dou1 li3 % de5 % qian2 $|看%了%看%自己%兜里%的%钱$
+5_5555_20220311004017|zai4 % kan4 % le5 % kan4 % you2 jia4 % biao3 shang4 % de5 % shu4 zi4 $|再%看%了%看%油价%表上%的%数字$
+5_5555_20220311004018|wang2 mou3 % jue2 ding4 % gao3 dian3 % bie2 ren2 % de5 % you2 $|王某%决定%搞点%别人%的%油$
+5_5555_20220311004019|mou3 % tian1 % ling2 chen2 $|某%天%凌晨$
+5_5555_20220311004020|wang2 mou3 % jiang1 % zi4 ji3 % che1 kai1 % dao4 % le5 % guang3 an1 shi4 % xie2 xing1 % yuan2 qu1 % le4 huo2 % cheng2 % de5 % ting2 che1 chang3 $|王某%将%自己%车开%到%了%广安市%协兴%园区%乐活%城%的%停车场$
+5_5555_20220311004021|zai4 % li3 mian4 % xun2 zhao3 % gao3 you2 % mu4 biao1 $|在%里面%寻找%搞油%目标$
+5_5555_20220311004022|bu4 guo4 $|不过$
+5_5555_20220311004023|wang2 mou3 % jiang1 % zhe4 ge4 % ting2 che1 chang3 % li3 % suo3 % ting2 % qi4 che1 % de5 % you2 xiang1 gai4 % an4 % le5 % ge4 % bian4 $|王某%将%这个%停车场%里%所%停%汽车%的%油箱盖%按%了%个%遍$
+5_5555_20220311004024|mei2 % fa1 xian4 % you3 neng2 % da3 kai1 % de5 % you2 xiang1 $|没%发现%有能%打开%的%油箱$
+5_5555_20220311004025|wang2 mou3 % zhe4 ci4 % de5 % gao3 % you2 % ji4 hua4 % pu1 % le5 % ge4 % kong1 $|王某%这次%的%搞%油%计划%扑%了%个%空$
+5_5555_20220311004026|ke3 wang2 % mou3 % mei2 you3 % da3 suan4 % zhong1 zhi3 % gao3 you2 % ji4 hua4 $|可王%某%没有%打算%终止%搞油%计划$
+5_5555_20220311004027|mou3 % tian1 % ling2 chen2 $|某%天%凌晨$
+5_5555_20220311004028|wang2 mou3 % jin4 ru4 % dao4 % yi2 ge4 % xiao3 % qu1 nei4 $|王某%进入%到%一个%小%区内$
+5_5555_20220311004029|zhao3 xun2 dao4 % le5 % yi1 liang4 % you2 xiang1 gai4 % neng2 % bei4 % qing1 song1 % da3 kai1 % de5 % jiao4 che1 $|找寻到%了%一辆%油箱盖%能%被%轻松%打开%的%轿车$
+5_5555_20220311004030|na2 chu1 % shi4 xian1 % zhun3 bei4 % hao3 % de5 % su4 liao4 guan3 % he2 % jiu3 hu2 $|拿出%事先%准备%好%的%塑料管%和%酒壶$
+5_5555_20220311004031|dao4 chu1 % yue1 % shi2 wu3 % sheng1 % de5 % jiu3 shi2 % er4 hao4 % qi4 you2 $|盗出%约%十五%升%的%九十%二号%汽油$
+5_5555_20220311004032|bing4 % jiang1 % zhe4 xie1 % qi4 you2 % dao4 jin4 % le5 % zi4 ji3 % che1 % nei4 $|并%将%这些%汽油%倒进%了%自己%车%内$
+5_5555_20220311004033|duan3 duan3 % yi2 ge4 yue4 % nei4 $|短短%一个月%内$
+5_5555_20220311004034|wang2 mou3 % yi3 % tong2 yang4 % de5 % fang1 shi4 % si4 ci4 % dao4 zou3 % le5 $|王某%以%同样%的%方式%四次%盗走%了$
+5_5555_20220311004035|che1 zhu3 % zui4 hou4 % fa1 xian4 % you2 xiang1 % li3 % de5 % you2 % bei4 % tou1 $|车主%最后%发现%油箱%里%的%油%被%偷$
+5_5555_20220311004036|dan4 % jing3 fang1 % yi1 shi2 % mei2 % zhua1 % dao4 % xian2 yi2 ren2 $|但%警方%一时%没%抓%到%嫌疑人$
+5_5555_20220311004037|jin1 nian2 % er4 yue4 % shi2 ri4 % ling2 chen2 $|今年%二月%十日%凌晨$
+5_5555_20220311004038|wang2 mou3 % gu4 ji4 zhong4 shi1 $|王某%故技重施$
+5_5555_20220311004039|lai2 dao4 % guang3 an1 % mou3 % xiao3 qu1 % qi3 tu2 % zai4 ci4 % dao4 qu3 % ta1 ren2 % qi4 che1 % zhong1 % de5 % qi4 you2 $|来到%广安%某%小区%企图%再次%盗取%他人%汽车%中%的%汽油$
+5_5555_20220311004040|dan4 % zhe4 ci4 % dao4 qu3 % guo4 cheng2 % bing4 % bu4 % shun4 li4 $|但%这次%盗取%过程%并%不%顺利$
+5_5555_20220311004041|sui2 zhe5 % xiao3 qu1 % an1 bao3 % ren2 yuan2 % xun2 luo2 % zou3 dong4 % de5 % sheng1 yin1 % li2 wang2 % mou3 % yue4 lai2 yue4 jin4 $|随着%小区%安保%人员%巡逻%走动%的%声音%离王%某%越来越近$
+5_5555_20220311004042|zuo4 zei2 xin1 xu1 % de5 % wang2 % mou3 % jiang1 % shou3 tou2 % de5 % wu3 sheng1 % qi4 you2 % dao4 % jin4 % zi4 ji3 % che1 % nei4 $|做贼心虚%的%王%某%将%手头%的%五升%汽油%倒%进%自己%车%内$
+5_5555_20220311004043|kuai4 su4 % tao2 li2 % le5 % xian4 chang3 $|快速%逃离%了%现场$
+5_5555_20220311004044|jiang1 % zhuang1 zhe5 % tou1 lai2 % de5 % shi2 sheng1 % qi4 you2 % de5 % jiu3 hu2 % he2 % su4 liao4 guan3 % liu2 zai4 % le5 % yuan2 di4 $|将%装着%偷来%的%十升%汽油%的%酒壶%和%塑料管%留在%了%原地$
+5_5555_20220311004045|an1 bao3 % ren2 yuan2 % jian4 zhuang4 % li4 ji2 % bao4 jing3 $|安保%人员%见状%立即%报警$
+5_5555_20220311004046|jie1 dao4 % bao4 jing3 % hou4 $|接到%报警%后$
+5_5555_20220311004047|guang3 an1 shi4 % guang3 an1 qu1 % gong1 an1 fen4 ju2 % wan4 sheng4 % pai4 chu1 suo3 % min2 jing3 % tong1 guo4 % yan2 mi4 % zhen1 cha2 $|广安市%广安区%公安分局%万盛%派出所%民警%通过%严密%侦查$
+5_5555_20220311004048|hen3 kuai4 % suo3 ding4 % le5 % fan4 zui4 % xian2 yi2 ren2 % wang2 mou3 % de5 % shen1 fen4 $|很快%锁定%了%犯罪%嫌疑人%王某%的%身份$
+5_5555_20220311004049|bing4 % xun4 su4 % jiang1 % qi2 % zhuo1 na2 gui1 an4 $|并%迅速%将%其%捉拿归案$
+5_5555_20220311004050|wan4 sheng4 % pai4 chu1 suo3 % xun2 luo2 % fang2 kong4 % dui4 % dui4 zhang3 % ma3 xiao3 hua2 % gao4 su4 % hong2 xing1 % xin1 wen2 ji4 zhe3 $|万盛%派出所%巡逻%防控%队%队长%马小华%告诉%红星%新闻记者$
+5_5555_20220311004051|xian2 yi2 ren2 % wang2 mou3 % ping2 shi2 % kai1 % de5 % shi4 % yi1 liang4 % pa4 sa4 te4 % jiao4 che1 $|嫌疑人%王某%平时%开%的%是%一辆%帕萨特%轿车$
+5_5555_20220311004052|yi1 jia1 ren2 % ding4 ju1 % chong2 qing4 $|一家人%定居%重庆$
+5_5555_20220311004053|yin1 wei4 % zai4 % guang3 an1 % he2 % chong2 qing4 % dou1 % you3 % ye4 wu4 $|因为%在%广安%和%重庆%都%有%业务$
+5_5555_20220311004054|jing1 chang2 % zai4 % chong2 qing4 % he2 % guang3 an1 % liang3 di4 % wang3 fan3 % ben1 bo1 $|经常%在%重庆%和%广安%两地%往返%奔波$
+5_5555_20220311004055|ju4 wang2 % mou3 % zi4 cheng1 $|据王%某%自称$
+5_5555_20220311004056|yin1 wei4 % you2 jia4 % tai4 gui4 % bian4 % jue2 ding4 % tou1 you2 $|因为%油价%太贵%便%决定%偷油$
+5_5555_20220311004057|ping2 shi2 % tou1 you2 % ye3 % shi4 % sui2 ji1 % xuan3 ze2 % mu4 biao1 $|平时%偷油%也%是%随机%选择%目标$
+5_5555_20220311004058|ru2 guo3 % you3 % che1 liang4 % de5 % you2 xiang1 gai4 % mei2 % suo3 hao3 $|如果%有%车辆%的%油箱盖%没%锁好$
+5_5555_20220311004059|jiu4 % yong4 % su4 liao4 guan3 % shen1 jin4 % dui4 fang1 % you2 xiang1 % tou1 you2 $|就%用%塑料管%伸进%对方%油箱%偷油$
+5_5555_20220311004060|mu4 qian2 $|目前$
+5_5555_20220311004061|wang2 mou3 % yin1 she4 xian2 % dao4 qie4 zui4 % yi3 % bei4 % jing3 fang1 % xing2 shi4 ju1 liu2 $|王某%因涉嫌%盗窃罪%已%被%警方%刑事拘留$
+5_5555_20220311004062|an4 jian4 % zheng4 zai4 % jin4 yi2 bu4 % ban4 li3 % dang1 zhong1 $|案件%正在%进一步%办理%当中$
+5_5555_20220311004063|jing3 fang1 % ti2 xing3 $|警方%提醒$
+5_5555_20220311004064|ge4 wei4 % si1 ji1 % ting2 che1 % shi2 $|各位%司机%停车%时$
+5_5555_20220311004065|che1 liang4 % ying1 % cai3 qu3 % jia1 gu4 % you2 xiang1 % deng3 % cuo4 shi1 $|车辆%应%采取%加固%油箱%等%措施$
+5_5555_20220311004066|ting2 fang4 % zai4 % zheng4 gui1 % ting2 che1 chang3 % huo4 % you3 % jian1 kong4 % she4 bei4 % de5 % lu4 duan4 $|停放%在%正规%停车场%或%有%监控%设备%的%路段$
+5_5555_20220311004067|you2 xiang1 % yi1 ce4 % jin3 liang4 % kao4 jin4 % qiang2 bi4 % deng3 % zhang4 ai4 wu4 $|油箱%一侧%尽量%靠近%墙壁%等%障碍物$
+5_5555_20220311004068|chu1 che1 % qian2 % zuo4 hao3 % ge4 xiang4 % jian3 cha2 $|出车%前%做好%各项%检查$
+5_5555_20220311004069|er4 ling2 er4 % er4 nian2 % liang3 hui4 % qi1 jian1 $|二零二%二年%两会%期间$
+5_5555_20220311004070|quan2 guo2 zheng4 xie2 % wei3 yuan2 % mo4 tian1 quan2 % zai4 % zi4 ji3 % de5 % ti2 an4 % zhong1 % tan2 dao4 $|全国政协%委员%莫天全%在%自己%的%提案%中%谈到$
+5_5555_20220311004071|wei4 % tui1 jin4 % fang2 di4 chan3 ye4 % liang2 xing4 xun2 huan2 % he2 % jian4 kang1 % fa1 zhan3 $|为%推进%房地产业%良性循环%和%健康%发展$
+5_5555_20220311004072|ying1 % jia1 da4 % dui4 gang1 % xu1 % he2 % gai3 shan4 % xu1 qiu2 % de5 % xin4 dai4 % zhi1 chi2 % li4 du4 $|应%加大%对刚%需%和%改善%需求%的%信贷%支持%力度$
+5_5555_20220311004073|fang2 di4 chan3 % kai1 fa1 % qi3 ye4 % de5 % zi1 jin1 % zhi1 chi2 % li4 du4 $|房地产%开发%企业%的%资金%支持%力度$
+5_5555_20220311004074|bing4 % shen1 hua4 % tu3 di4 % gong1 ji3 % ce4 % gai3 ge2 $|并%深化%土地%供给%侧%改革$
+5_5555_20220311004075|xian4 zai4 % reng2 % you3 % gou4 fang2 zhe3 % zhi4 ye4 % qing2 xu4 % bu4 gao1 $|现在%仍%有%购房者%置业%情绪%不高$
+5_5555_20220311004076|qi3 ye4 % zi1 jin1 % ya1 li4 % ying3 xiang3 % xia4 % tou2 zi1 % ji1 ji2 xing4 % pian1 ruo4 $|企业%资金%压力%影响%下%投资%积极性%偏弱$
+5_5555_20220311004077|jin1 rong2 ji1 gou4 % tou2 zi1 % jin3 shen4 $|金融机构%投资%谨慎$
+5_5555_20220311004078|fang2 di4 chan3 % shang4 xia4 you2 % zi1 jin1 % lian4 % shang4 wei4 % chang4 tong1 % deng3 % xian4 xiang4 $|房地产%上下游%资金%链%尚未%畅通%等%现象$
+5_5555_20220311004079|fang2 di4 chan3 % hang2 ye4 % liang2 xing4 xun2 huan2 % reng2 % mian4 lin2 % jiao4 % duo1 % zhang4 ai4 $|房地产%行业%良性循环%仍%面临%较%多%障碍$
+5_5555_20220311004080|bu4 li4 yu2 % jing1 ji4 % de5 % wen3 ding4 % fa1 zhan3 $|不利于%经济%的%稳定%发展$
+5_5555_20220311004081|zai4 % ci3 % qing2 kuang4 % xia4 $|在%此%情况%下$
+5_5555_20220311004082|jiang4 di1 % shou3 fu4 % bi3 li4 % dui4 % xu1 qiu2 % duan1 de5 % ying3 xiang3 % geng4 wei2 % zhi2 jie1 $|降低%首付%比例%对%需求%端的%影响%更为%直接$
+5_5555_20220311004083|ji4 % bao1 kuo4 % dui4 shou3 % tao4 fang2 % er4 % tao4 fang2 % shou3 fu4 % bi3 li4 % de5 % zhi2 jie1 % tiao2 jie2 $|既%包括%对首%套房%二%套房%首付%比例%的%直接%调节$
+5_5555_20220311004084|ye3 % bao1 kuo4 % dui4 % bu4 fen4 % cheng2 shi4 % er4 tao4 % zhu4 fang2 % de5 % ren4 ding4 % biao1 zhun3 % de5 % jian4 jie1 % tiao2 jie2 $|也%包括%对%部分%城市%二套%住房%的%认定%标准%的%间接%调节$
+5_5555_20220311004085|yao4 % jin4 yi2 bu4 % jia1 da4 % dui4 gang1 % xu1 % he2 % gai3 shan4 % xu1 qiu2 % de5 % xin4 dai4 % zhi1 chi2 % li4 du4 $|要%进一步%加大%对刚%需%和%改善%需求%的%信贷%支持%力度$
+5_5555_20220311004086|zhong1 yang1 % ke3 % jie2 he2 % ren2 kou3 % zheng4 ce4 $|中央%可%结合%人口%政策$
+5_5555_20220311004087|yan2 jiu1 % tiao2 zheng3 % er4 hai2 san1 hai2 % jia1 ting2 % de5 % zhu4 fang2 % xin4 dai4 zheng4 ce4 $|研究%调整%二孩三孩%家庭%的%住房%信贷政策$
+5_5555_20220311004088|zhen1 dui4 % bu4 tong2 % jia1 ting2 % she4 ding4 % cha1 yi4 hua4 % shou3 fu4 % bi3 li4 $|针对%不同%家庭%设定%差异化%首付%比例$
+5_5555_20220311004089|gen1 ju4 % sheng1 hai2 % shu4 liang4 % shi4 du4 % tiao2 zheng3 $|根据%生孩%数量%适度%调整$
+5_5555_20220311004090|di4 fang1 % ke3 % jie2 he2 % ren2 cai2 % zheng4 ce4 $|地方%可%结合%人才%政策$
+5_5555_20220311004091|chu2 % ji3 yu3 % zhu4 fang2 bu3 tie1 % wai4 $|除%给予%住房补贴%外$
+5_5555_20220311004092|zai4 % ren2 cai2 % zhu4 fang2 % xin4 dai4 zheng4 ce4 % fang1 mian4 % zuo4 chu1 % tiao2 zheng3 $|在%人才%住房%信贷政策%方面%做出%调整$
+5_5555_20220311004093|ru2 % ji3 yu3 % gao1 ceng2 ci4 % ren2 cai2 % zhuan1 xiang4 % dai4 kuan3 % zhi1 chi2 $|如%给予%高层次%人才%专项%贷款%支持$
+5_5555_20220311004094|jiang4 di1 % ren2 cai2 % gou4 fang2 % de5 % shou3 fu4 % bi3 li4 % deng3 $|降低%人才%购房%的%首付%比例%等$
+5_5555_20220311004095|er2 % zai4 % gong1 ying4 % duan1 % fang1 mian4 $|而%在%供应%端%方面$
+5_5555_20220311004096|mo4 tian1 quan2 % jian4 yi4 % jin4 yi2 bu4 % jia1 da4 % dui4 % fang2 di4 chan3 % kai1 fa1 % qi3 ye4 % de5 % zi1 jin1 % zhi1 chi2 % li4 du4 $|莫天全%建议%进一步%加大%对%房地产%开发%企业%的%资金%支持%力度$
+5_5555_20220311004097|qiang2 hua4 % dui4 % you1 zhi4 % min2 qi3 % de5 % zi1 jin1 % zhi1 chi2 $|强化%对%优质%民企%的%资金%支持$
+5_5555_20220311004098|di4 fang1 % ling2 huo2 % zhi4 ding4 % jian1 guan3 % gui1 ze2 $|地方%灵活%制定%监管%规则$
+5_5555_20220311004099|wei2 hu4 % gou4 fang2 zhe3 % quan2 yi4 $|维护%购房者%权益$
+5_5555_20220311004100|wen3 ding4 % shi4 chang3 % yu4 qi1 % de5 % tong2 shi2 $|稳定%市场%预期%的%同时$
+5_5555_20220311005001|ti2 gao1 % qi3 ye4 % zi1 jin1 % shi3 yong4 % xiao4 lv4 $|提高%企业%资金%使用%效率$
+5_5555_20220311005002|bao3 zhang4 % shang4 xia4 you2 % gong1 ying4 shang1 % he2 fa3 quan2 yi4 $|保障%上下游%供应商%合法权益$
+5_5555_20220311005003|wen3 ding4 % shi4 chang3 % xin4 xin1 $|稳定%市场%信心$
+5_5555_20220311005004|chang4 tong1 % shang4 xia4 you2 % zi1 jin1 % lian4 $|畅通%上下游%资金%链$
+5_5555_20220311005005|ci3 wai4 % tu3 di4 % duan1 % dui4 yu2 % fang2 qi3 $|此外%土地%端%对于%房企$
+5_5555_20220311005006|shi4 chang3 % ye3 % you3 zhe5 % zhi4 guan1 zhong4 yao4 % de5 % ying3 xiang3 $|市场%也%有着%至关重要%的%影响$
+5_5555_20220311005007|tu3 di4 % shi4 chang3 % ming2 xian3 % jiang4 wen1 $|土地%市场%明显%降温$
+5_5555_20220311005008|zhe4 % yu3 % can1 pai1 % men2 kan3 % ti2 gao1 $|这%与%参拍%门槛%提高$
+5_5555_20220311005009|di4 kuai4 % tiao2 jian4 % yan2 ke1 % chu1 shi3 % di4 jia4 % pan1 sheng1 % deng3 % yin1 su4 % mi4 qie4 xiang1 guan1 $|地块%条件%严苛%初始%地价%攀升%等%因素%密切相关$
+5_5555_20220311005010|zhong4 dian3 % cheng2 shi4 % yi1 nian2 % san1 ci4 % ji2 zhong1 % gong1 di4 $|重点%城市%一年%三次%集中%供地$
+5_5555_20220311005011|dui4 % qi3 ye4 % duan3 qi1 % zi1 jin1 % shi2 li4 % ji2 % di4 kuai4 % yan2 pan4 % neng2 li4 % yao1 qiu2 % jiao4 % gao1 $|对%企业%短期%资金%实力%及%地块%研判%能力%要求%较%高$
+5_5555_20220311005012|qi3 ye4 % mian4 lin2 % zi1 jin1 % ya1 li4 $|企业%面临%资金%压力$
+5_5555_20220311005013|na2 % di4 % yi4 yuan4 % he2 % neng2 li4 % jun1 % xia4 jiang4 $|拿%地%意愿%和%能力%均%下降$
+5_5555_20220311005014|re4 dian3 % cheng2 shi4 % zhu4 zhai2 % yong4 di4 % cheng2 jiao1 % gui1 mo2 % xia4 hua2 $|热点%城市%住宅%用地%成交%规模%下滑$
+5_5555_20220311005015|bu4 fen4 % di4 kuai4 % bei4 % di4 fang1 % cheng2 tou2 % gong1 si1 % huo4 de2 $|部分%地块%被%地方%城投%公司%获得$
+5_5555_20220311005016|duan3 qi1 % ying3 xiang3 % shang1 pin3 zhu4 zhai2 % de5 % gong1 ying4 liang4 $|短期%影响%商品住宅%的%供应量$
+5_5555_20220311005017|zhong1 chang2 qi1 % huo4 % jiang1 % zai4 % yi2 ding4 % cheng2 du4 % shang4 % dui4 % hang2 ye4 % ping2 wen3 % jian4 kang1 % fa1 zhan3 % chan3 sheng1 % ying3 xiang3 $|中长期%或%将%在%一定%程度%上%对%行业%平稳%健康%发展%产生%影响$
+5_5555_20220311005018|shi4 du4 % zeng1 jia1 % zhong4 dian3 % cheng2 shi4 % ji2 zhong1 % gong1 di4 % ci4 shu4 $|适度%增加%重点%城市%集中%供地%次数$
+5_5555_20220311005019|yin1 cheng2 % shi1 ce4 % you1 hua4 % tu3 pai1 % gui1 ze2 $|因城%施策%优化%土拍%规则$
+5_5555_20220311005020|ji4 xu4 % jian1 chi2 % you2 jiang4 % di4 jia4 % xiang4 jiang4 % shi2 ji4 % di4 jia4 % zhuan3 bian4 $|继续%坚持%由降%地价%向降%实际%地价%转变$
+5_5555_20220311005021|bing4 % shi4 dang4 % jiang4 di1 % qi3 ye4 % na2 % di4 % men2 kan3 $|并%适当%降低%企业%拿%地%门槛$
+5_5555_20220311005022|yi3 dian3 dai4 mian4 % ti2 sheng1 % shi4 chang3 % xin4 xin1 $|以点带面%提升%市场%信心$
+5_5555_20220311005023|liao3 jie3 % shi4 chang3 % zui4 xin1 % dong4 tai4 $|了解%市场%最新%动态$
+5_5555_20220311005024|tian1 jia1 % xia4 fang1 % er4 wei2 ma3 $|添加%下方%二维码$
+5_5555_20220311005025|ji2 shi2 % zhang3 wo4 % yi1 shou3 % xin4 xi1 $|及时%掌握%一手%信息$
+5_5555_20220311005026|shou4 dao4 % da4 % huan2 jing4 % de5 % dai4 dong4 $|受到%大%环境%的%带动$
+5_5555_20220311005027|guang3 zhou1 % lou2 shi4 % jin4 qi1 % nuan3 feng1 % zhen4 zhen4 $|广州%楼市%近期%暖风%阵阵$
+5_5555_20220311005028|zai4 % li4 lv4 % tiao2 zheng3 % deng3 % li4 hao3 % de5 % zuo4 yong4 % zhi1 xia4 $|在%利率%调整%等%利好%的%作用%之下$
+5_5555_20220311005029|guang3 zhou1 % lou2 shi4 % zai4 % jin1 nian2 % san1 yue4 % kan4 dao4 % le5 % nuan3 yi4 $|广州%楼市%在%今年%三月%看到%了%暖意$
+5_5555_20220311005030|ju4 % guang3 zhou1 % zhong1 yuan2 % yan2 jiu1 % fa1 zhan3 bu4 % tong3 ji4 % de5 % shu4 ju4 $|据%广州%中原%研究%发展部%统计%的%数据$
+5_5555_20220311005031|ben3 yue4 % di4 yi1 zhou1 $|本月%第一周$
+5_5555_20220311005032|guang3 zhou1 % er4 shou3 % zhu4 zhai2 % gong4 % cheng2 jiao1 $|广州%二手%住宅%共%成交$
+5_5555_20220311005033|huan2 bi3 % hui2 sheng1 $|环比%回升$
+5_5555_20220311005034|er4 shou3 % cheng2 jiao1 % yi3 % lian2 xu4 % wu3 zhou1 % bao3 chi2 % shang4 yang2 % tai4 shi4 $|二手%成交%已%连续%五周%保持%上扬%态势$
+5_5555_20220311005035|er4 shou3 fang2 % zhu2 jian4 % hui2 wen1 $|二手房%逐渐%回温$
+5_5555_20220311005036|yi1 shou3 % fang2 ze2 % bao3 chi2 % bu4 wen1 bu4 huo3 % zhuang4 tai4 $|一手%房则%保持%不温不火%状态$
+5_5555_20220311005037|dan4 % zheng3 ti3 % shang4 % ye3 % yi3 jing1 % you3 suo3 % hui1 fu4 $|但%整体%上%也%已经%有所%恢复$
+5_5555_20220311005038|cong2 % shu4 ju4 % lai2 kan4 $|从%数据%来看$
+5_5555_20220311005039|guang3 zhou1 % quan2 shi4 % yi1 shou3 % zhu4 zhai2 % wang3 qian1 $|广州%全市%一手%住宅%网签$
+5_5555_20220311005040|xin1 fang2 % cheng2 jiao1 % yi3 % lian2 xu4 % san1 zhou1 % bao3 chi2 $|新房%成交%已%连续%三周%保持$
+5_5555_20220311005041|ji1 ben3 % yi3 % hui1 fu4 % zhi4 % jie2 qian2 % shui3 ping2 $|基本%已%恢复%至%节前%水平$
+5_5555_20220311005042|gen1 ju4 % er4 shi2 yi1 % shi4 ji4 % bao4 dao4 % ji4 zhe3 % duo1 fang1 % diao4 cha2 % liao3 jie3 $|根据%二十一%世纪%报道%记者%多方%调查%了解$
+5_5555_20220311005043|guang3 zhou1 % lou2 shi4 % jin4 qi1 % yi1 shou3 % fang2 dai4 % kan4 liang4 % you3 suo3 % hui2 sheng1 $|广州%楼市%近期%一手%房带%看量%有所%回升$
+5_5555_20220311005044|er4 shou3 fang2 % cheng2 jiao1 % ye3 % ming2 xian3 % jia1 kuai4 $|二手房%成交%也%明显%加快$
+5_5555_20220311005045|guang3 zhou1 % lou2 shi4 % si4 hu1 % yi3 jing1 % zai4 zhu4 di3 % de5 % jie1 duan4 $|广州%楼市%似乎%已经%在筑底%的%阶段$
+5_5555_20220311005046|dan4 % xu1 yao4 % zhi3 chu1 % de5 % shi4 $|但%需要%指出%的%是$
+5_5555_20220311005047|guang3 zhou1 % lou2 shi4 % mu4 qian2 % fen1 hua4 % reng2 % jiao4 wei2 % ming2 xian3 $|广州%楼市%目前%分化%仍%较为%明显$
+5_5555_20220311005048|re4 dian3 % qu1 yu4 % re4 du4 % hui2 sheng1 $|热点%区域%热度%回升$
+5_5555_20220311005049|er2 % wai4 wei2 % qu1 yu4 % mu4 qian2 % cheng2 jiao1 % reng2 % jiao4 wei2 % di1 mi2 $|而%外围%区域%目前%成交%仍%较为%低迷$
+5_5555_20220311005050|zheng3 ti3 % shang4 % ye3 % reng2 % yi3 % wen3 % wei2 zhu3 $|整体%上%也%仍%以%稳%为主$
+5_5555_20220311005051|chu2 le5 % guang3 zhou1 % zhi1 wai4 % bei3 jing1 % shang4 hai3 % he2 % shen1 zhen4 % jin4 qi1 % lou2 shi4 % ye3 % jun1 % you3 % chu4 di3 % de5 % qu1 shi4 $|除了%广州%之外%北京%上海%和%深圳%近期%楼市%也%均%有%触底%的%趋势$
+5_5555_20220311005052|sui2 zhe5 % zi1 jin1 mian4 % de5 % hao3 zhuan3 $|随着%资金面%的%好转$
+5_5555_20220311005053|yu4 ji4 % gou4 fang2 zhe3 % xin4 xin1 % ye3 % jiang1 % zhu2 bu4 % hui1 fu4 $|预计%购房者%信心%也%将%逐步%恢复$
+5_5555_20220311005054|fang2 di4 chan3 % shi4 chang3 % ye3 % jiang1 % wen3 jian4 % qian2 xing2 $|房地产%市场%也%将%稳健%前行$
+5_5555_20220311005055|guang3 zhou1 % lou2 shi4 % ju2 bu4 $|广州%楼市%局部$
+5_5555_20220311005056|zuo4 wei2 % si4 zuo4 % yi1 xian4 % cheng2 shi4 % zhong1 % shou3 xian1 % jiang4 di1 % fang2 dai4 li4 lv4 % de5 % cheng2 shi4 $|作为%四座%一线%城市%中%首先%降低%房贷利率%的%城市$
+5_5555_20220311005057|guang3 zhou1 % lou2 shi4 % ben3 lun2 % hui2 nuan3 % zai4 % shi4 chang3 % de5 % yu4 qi1 % zhi1 zhong1 $|广州%楼市%本轮%回暖%在%市场%的%预期%之中$
+5_5555_20220311005058|si4 da4 xing2 % tong2 bu4 % xia4 diao4 % guang3 zhou1 di4 qu1 % fang2 dai4 li4 lv4 $|四大行%同步%下调%广州地区%房贷利率$
+5_5555_20220311005059|shou3 % tao4 fang2 % li4 lv4 % cong2 ci3 % qian2 % de5 $|首%套房%利率%从此%前%的$
+5_5555_20220311005060|zai4 % ci3 % tui1 dong4 % xia4 % guang3 zhou1 % lou2 shi4 % yi1 shou3 % fang2 % er4 shou3 fang2 % jun1 % chu1 xian4 % le5 % yi2 ding4 % cheng2 du4 % de5 % hui2 nuan3 $|在%此%推动%下%广州%楼市%一手%房%二手房%均%出现%了%一定%程度%的%回暖$
+5_5555_20220311005061|yi1 wei4 % jin4 qi1 % zai4 % guan1 zhu4 % huang2 pu3 qu1 % xiao3 hu4 xing2 % de5 % qian2 zai4 % gou4 fang2 zhe3 $|一位%近期%在%关注%黄埔区%小户型%的%潜在%购房者$
+5_5555_20220311005062|xian4 zai4 % gua4 pai2 jia4 % quan2 bu4 % you3 % xiao3 fu2 % shang4 zhang3 $|现在%挂牌价%全部%有%小幅%上涨$
+5_5555_20220311005063|zhong1 jie4 % ye3 % gen1 % wo3 % shuo1 $|中介%也%跟%我%说$
+5_5555_20220311005064|er4 bai3 san1 shi2 duo1 % wan4 % zhe4 ge4 % jia4 ge2 % zan4 shi2 % shi4 % bi3 jiao4 % nan2 tan2 % le5 $|二百三十多%万%这个%价格%暂时%是%比较%难谈%了$
+5_5555_20220311005065|er2 qie3 % ye3 % hui4 % bi3 jiao4 % kuai4 % mai4 chu1 $|而且%也%会%比较%快%卖出$
+5_5555_20220311005066|zhong3 zhong3 % ji4 xiang4 % biao3 ming2 $|种种%迹象%表明$
+5_5555_20220311005067|guang3 zhou1 % lou2 shi4 % zheng4 zai4 % hui1 fu4 yuan2 qi4 $|广州%楼市%正在%恢复元气$
+5_5555_20220311005068|guang3 dong1 sheng3 % zhu4 fang2 % zheng4 ce4 % yan2 jiu1 % zhong1 xin1 % shou3 xi2 % yan2 jiu1 yuan2 $|广东省%住房%政策%研究%中心%首席%研究员$
+5_5555_20220311005069|zai4 % jie1 shou4 % er4 shi2 yi1 % shi4 ji4 % jing1 ji4 % bao4 dao4 % ji4 zhe3 % cai3 fang3 % shi2 % biao3 shi4 $|在%接受%二十一%世纪%经济%报道%记者%采访%时%表示$
+5_5555_20220311005070|cong2 % dang1 qian2 % de5 % cheng2 jiao1 % qing2 kuang4 % lai2 kan4 $|从%当前%的%成交%情况%来看$
+5_5555_20220311005071|guang3 zhou1 % de5 % shi4 chang3 % ying1 gai1 % shi4 % zai4 % zhu4 di3 % de5 % guo4 cheng2 % zhong1 % le5 $|广州%的%市场%应该%是%在%筑底%的%过程%中%了$
+5_5555_20220311005072|guang3 zhou1 % zhi1 qian2 % yi3 jing1 % chu1 tai2 % yi1 xi4 lie4 % de5 % zheng4 ce4 $|广州%之前%已经%出台%一系列%的%政策$
+5_5555_20220311005073|bao1 kuo4 % li4 lv4 % xia4 diao4 % yi3 ji2 % xian4 jia4 % you1 hua4 % deng3 $|包括%利率%下调%以及%限价%优化%等$
+5_5555_20220311005074|zhe4 xie1 % dui4 % shi4 chang3 % de5 % yu4 qi1 % you3 % jiao4 % qiang2 % de5 % yin3 dao3 % zuo4 yong4 $|这些%对%市场%的%预期%有%较%强%的%引导%作用$
+5_5555_20220311005075|guang3 zhou1 % ben3 shen1 % shi4 chang3 xu1 qiu2 % jiu4 % bi3 jiao4 % wang4 sheng4 $|广州%本身%市场需求%就%比较%旺盛$
+5_5555_20220311005076|qian2 li4 % ye3 % bi3 jiao4 % da4 $|潜力%也%比较%大$
+5_5555_20220311005077|zheng4 ce4 % you3 suo3 % tiao2 zheng3 % dui4 % shi4 chang3 % jiu4 % hui4 % you3 % ti2 zhen4 $|政策%有所%调整%对%市场%就%会%有%提振$
+5_5555_20220311005078|yi1 xian4 % lou2 shi4 % fen1 hua4 $|一线%楼市%分化$
+5_5555_20220311005079|zai4 % si4 zuo4 % yi1 xian4 % cheng2 shi4 % zhong1 $|在%四座%一线%城市%中$
+5_5555_20220311005080|guang3 zhou1 % lou2 shi4 % de5 % hui2 nuan3 % zhi3 shi4 % yi2 ge4 % suo1 ying3 $|广州%楼市%的%回暖%只是%一个%缩影$
+5_5555_20220311005081|shi2 ji4 shang4 % zong4 guan1 % bei3 jing1 % shang4 hai3 % he2 % shen1 zhen4 % deng3 % qi2 yu2 % yi1 xian4 % cheng2 shi4 % de5 % lou2 shi4 % biao3 xian4 $|实际上%纵观%北京%上海%和%深圳%等%其余%一线%城市%的%楼市%表现$
+5_5555_20220311005082|shi4 chang3 % xin4 xin1 % he2 % re4 du4 % jun1 % you3 % bu4 tong2 % cheng2 du4 % de5 % hui1 fu4 $|市场%信心%和%热度%均%有%不同%程度%的%恢复$
+5_5555_20220311005083|shang4 hai3 % shi4 % shuai4 xian1 % huo2 yue4 % de5 % cheng2 shi4 $|上海%是%率先%活跃%的%城市$
+5_5555_20220311005084|tong3 ji4 % de5 % shu4 ju4 % xian3 shi4 $|统计%的%数据%显示$
+5_5555_20220311005085|jin1 nian2 % er4 yue4 % shang4 hai3 % shang1 pin3 zhu4 zhai2 % cheng2 jiao1 % jin1 e2 % wei4 % wu3 % yi4 yuan2 $|今年%二月%上海%商品住宅%成交%金额%为%五%亿元$
+5_5555_20220311005086|tong2 bi3 % qu4 nian2 % shang4 zhang3 % bai3 fen1 zhi1 san1 shi2 wu3 $|同比%去年%上涨%百分之三十五$
+5_5555_20220311005087|chuang4 jin4 % wu3 nian2 % tong2 qi1 % cheng2 jiao1 % xin1 gao1 $|创近%五年%同期%成交%新高$
+5_5555_20220311005088|pai2 zai4 % qian2 % shi2 wei4 % de5 % lou2 pan2 % xiao1 shou4 zong3 e2 % jin4 % yi4 yuan2 $|排在%前%十位%的%楼盘%销售总额%近%亿元$
+5_5555_20220311005089|er2 % gen1 ju4 % shang4 hai3 % ben3 tu3 % yi1 jia1 % shi4 zhan4 lv4 % jiao4 % gao1 % de5 % ji1 gou4 % shu4 ju4 % tong3 ji4 $|而%根据%上海%本土%一家%市占率%较%高%的%机构%数据%统计$
+5_5555_20220311005090|bei3 jing1 % de5 % qing2 kuang4 % xiang1 dui4 % geng4 wei2 % ping2 wen3 % yi1 xie1 $|北京%的%情况%相对%更为%平稳%一些$
+5_5555_20220311005091|gen1 ju4 % zhong1 yuan2 % yan2 jiu1 % zhong1 xin1 % tong3 ji4 % de5 % shu4 ju4 $|根据%中原%研究%中心%统计%的%数据$
+5_5555_20220311005092|qi2 zhong1 % zhu3 cheng2 qu1 % fang2 jia4 % jun1 % shang4 sheng1 $|其中%主城区%房价%均%上升$
+5_5555_20220311005093|dan4 % er4 yue4 % bei3 jing1 % quan2 shi4 % er4 shou3 fang2 % cheng2 jiao1 liang4 % ji4 jie2 xing4 % hui2 luo4 $|但%二月%北京%全市%二手房%成交量%季节性%回落$
+5_5555_20220311005094|lei3 ji4 % qian1 yue1 $|累计%签约$
+5_5555_20220311005095|da2 jin4 % yi1 nian2 % xin1 di1 $|达近%一年%新低$
+5_5555_20220311005096|shen1 zhen4 % lou2 shi4 % cheng2 jiao1 % shang4 wei4 % you3 % ming2 xian3 % qi3 se4 $|深圳%楼市%成交%尚未%有%明显%起色$
+5_5555_20220311005097|ju4 % shen1 zhen4 shi4 % zhu4 % jian4 ju2 % pi1 lu4 % de5 % shu4 ju4 $|据%深圳市%住%建局%披露%的%数据$
+5_5555_20220311005098|shen1 zhen4 % er4 shou3 % zhu4 zhai2 % cheng2 jiao1 $|深圳%二手%住宅%成交$
+5_5555_20220311005099|jin3 guan3 % shen1 zhen4 % lou2 shi4 % biao3 xian4 % ping2 dan4 $|尽管%深圳%楼市%表现%平淡$
+5_5555_20220311005100|dan4 % shi4 chang3 % dui4 % qi2 % de5 % xin4 xin1 % reng2 % zai4 % zhu2 bu4 % hui1 fu4 % zhong1 $|但%市场%对%其%的%信心%仍%在%逐步%恢复%中$
+5_5555_20220311006001|wu1 fan4 shu4 % zai4 % shao3 shu4 min2 zu2 % ren2 min2 % de5 % sheng1 chan3 % sheng1 huo2 % zhong1 % ban4 yan3 % le5 % ji2 qi2 zhong4 yao4 % de5 % jue2 se4 $|乌饭树%在%少数民族%人民%的%生产%生活%中%扮演%了%极其重要%的%角色$
+5_5555_20220311006002|ge4 di4 % zhi4 zuo4 % wu1 % mi3 fan4 % de5 % xi2 su2 % dai4 dai4 xiang1 chuan2 $|各地%制作%乌%米饭%的%习俗%代代相传$
+5_5555_20220311006003|yi1 wan3 % wu1 % mi3 fan4 % cheng2 zai4 % zhe5 % nong2 nong2 de5 % xiang1 chou2 $|一碗%乌%米饭%承载%着%浓浓的%乡愁$
+5_5555_20220311006004|quan2 guo2 % ren2 da4 dai4 biao3 $|全国%人大代表$
+5_5555_20220311006005|jiang1 % wu1 fan4 shu4 % chan3 ye4 % yu3 % wen2 % lv3 kang1 yang3 % chan3 ye4 % xiang1 % rong2 he2 $|将%乌饭树%产业%与%文%旅康养%产业%相%融合$
+5_5555_20220311006006|tui1 dong4 % chuan2 tong3 % wen2 hua4 % chuan2 cheng2 % yu3 % wu1 fan4 shu4 % chan3 ye4 % fa1 zhan3 % you3 ji1 % jie2 he2 $|推动%传统%文化%传承%与%乌饭树%产业%发展%有机%结合$
+5_5555_20220311006007|zhu4 tui1 % xiang1 cun1 % zhen4 xing1 % rang4 % cun1 min2 % zou3 shang4 % zhi4 fu4 lu4 $|助推%乡村%振兴%让%村民%走上%致富路$
+5_5555_20220311006008|shu4 ye4 % han2 you3 % feng1 fu4 % de5 % duo1 tang2 % he2 % huang2 tong2 lei4 % hua4 he2 wu4 $|树叶%含有%丰富%的%多糖%和%黄酮类%化合物$
+5_5555_20220311006009|guo3 shi2 % han2 you3 % duo1 zhong3 % zhi1 fang2 suan1 $|果实%含有%多种%脂肪酸$
+5_5555_20220311006010|an1 ji1 suan1 % ji2 % wei2 sheng1 su4 % deng3 % cheng2 fen4 $|氨基酸%及%维生素%等%成分$
+5_5555_20220311006011|ying2 yang3 jia4 zhi2 % jiao4 % gao1 $|营养价值%较%高$
+5_5555_20220311006012|sheng1 huo2 % zai4 % jiang1 su1 % zhe4 jiang1 % fu2 jian4 % deng3 % di4 % de5 $|生活%在%江苏%浙江%福建%等%地%的$
+5_5555_20220311006013|su4 you3 % yong4 % wu1 fan4 shu4 % shu4 ye4 % ji2 qi2 % guo3 shi2 % zhi4 zuo4 % wu1 % mi3 fan4 % de5 % xi2 su2 $|素有%用%乌饭树%树叶%及其%果实%制作%乌%米饭%的%习俗$
+5_5555_20220311006014|wu1 fan4 % zhi4 zuo4 % ji4 yi4 $|乌饭%制作%技艺$
+5_5555_20220311006015|bei4 % lie4 ru4 % fu2 jian4 % sheng3 ji2 % fei1 % wu4 zhi4 % wen2 hua4 yi2 chan3 % dai4 biao3 xing4 % xiang4 mu4 % ming2 lu4 $|被%列入%福建%省级%非%物质%文化遗产%代表性%项目%名录$
+5_5555_20220311006016|jin4 nian2 lai2 $|近年来$
+5_5555_20220311006017|zai4 % tui1 dong4 % hou4 men2 % ping2 % cun1 % xiang1 cun1 % zhen4 xing1 % de5 % guo4 cheng2 % zhong1 $|在%推动%后门%坪%村%乡村%振兴%的%过程%中$
+5_5555_20220311006018|lei2 % jin1 yu4 % ji1 ji2 % dai4 ling3 % cun1 min2 % tan4 suo3 % chan3 ye4 % jia1 % wen2 hua4 % de5 % xiang1 cun1 % zhen4 xing1 % zhi1 % lu4 $|雷%金玉%积极%带领%村民%探索%产业%加%文化%的%乡村%振兴%之%路$
+5_5555_20220311006019|zai4 % cun1 li3 % jian4 qi3 % le5 % wu1 fan4 shu4 % zhong4 zhi2 % shi4 fan4 % ji1 di4 $|在%村里%建起%了%乌饭树%种植%示范%基地$
+5_5555_20220311006020|dai4 dong4 % gu3 li4 % cun1 min2 % kuo4 da4 % wu1 fan4 shu4 % zhong4 zhi2 % gui1 mo2 $|带动%鼓励%村民%扩大%乌饭树%种植%规模$
+5_5555_20220311006021|bing4 % tong1 guo4 % jia1 gong1 % xiao1 shou4 % wu1 % mi3 fan4 % ji2 % xiang1 guan1 % chan3 pin3 $|并%通过%加工%销售%乌%米饭%及%相关%产品$
+5_5555_20220311006022|xi1 yin3 % zhong4 duo1 % shi4 min2 % you2 ke4 % can1 yu4 % ti3 yan4 $|吸引%众多%市民%游客%参与%体验$
+5_5555_20220311006023|zhen1 dui4 % wu1 fan4 shu4 % chan3 ye4 % fa1 zhan3 % luo4 hou4 % deng3 % wen4 ti2 $|针对%乌饭树%产业%发展%落后%等%问题$
+5_5555_20220311006024|ge4 di4 % dui4 % fa1 zhan3 % wu1 fan4 shu4 % chan3 ye4 % zhong4 shi4 % cheng2 du4 % bu4 gou4 $|各地%对%发展%乌饭树%产业%重视%程度%不够$
+5_5555_20220311006025|dui4 % wu1 fan4 shu4 % de5 % kai1 fa1 % he2 % li4 yong4 % duo1 % yi1 lai4 yu2 % qi2 % ye3 sheng1 % zi1 yuan2 $|对%乌饭树%的%开发%和%利用%多%依赖于%其%野生%资源$
+5_5555_20220311006026|dui4 % qi2 % you1 liang2 pin3 zhong3 % de5 % xuan3 yu4 % ji2 % yang3 zhi2 % ji4 shu4 % de5 % yan2 jiu1 % jiao4 % shao3 $|对%其%优良品种%的%选育%及%养殖%技术%的%研究%较%少$
+5_5555_20220311006027|dui4 % wu1 fan4 shu4 % you3 xiao4 cheng2 fen4 % de5 % xiang1 guan1 % yan2 jiu1 % shang4 wei4 % zhan3 kai1 $|对%乌饭树%有效成分%的%相关%研究%尚未%展开$
+5_5555_20220311006028|tong2 shi2 % wu1 fan4 shu4 % chan3 ye4 hua4 % fa1 zhan3 % shui3 ping2 % reng2 jiu4 % jiao4 % di1 $|同时%乌饭树%产业化%发展%水平%仍旧%较%低$
+5_5555_20220311006029|da4 bu4 fen4 % wu1 % mi3 fan4 % jia1 gong1 % sheng1 chan3 % yi3 % xiao3 zuo1 fang1 % de5 % xing2 shi4 % chu1 xian4 $|大部分%乌%米饭%加工%生产%以%小作坊%的%形式%出现$
+5_5555_20220311006030|que1 fa2 % biao1 zhun3 hua4 % sheng1 chan3 $|缺乏%标准化%生产$
+5_5555_20220311006031|shen1 jia1 gong1 % neng2 li4 % qian4 que1 $|深加工%能力%欠缺$
+5_5555_20220311006032|ying2 xiao1 % fang1 shi4 % dan1 yi1 $|营销%方式%单一$
+5_5555_20220311006033|shang1 biao1 % yi4 shi2 % dan4 bo2 $|商标%意识%淡薄$
+5_5555_20220311006034|chuan2 tong3 % shou3 gong1 yi4 % zhi4 zuo4 % de5 % wu1 % mi3 fan4 % mian4 lin2 % zhe5 % shu4 liang4 % shao3 $|传统%手工艺%制作%的%乌%米饭%面临%着%数量%少$
+5_5555_20220311006035|gui1 mo2 % xiao3 $|规模%小$
+5_5555_20220311006036|chan3 ye4 % ceng2 ci4 % di1 $|产业%层次%低$
+5_5555_20220311006037|jing1 ji4 xiao4 yi4 % di1 xia4 % deng3 % wen4 ti2 $|经济效益%低下%等%问题$
+5_5555_20220311006038|ci3 wai4 % wu1 fan4 shu4 % chan3 ye4 % que1 fa2 % ke1 xue2 % de5 % ji4 shu4 % zhi3 dao3 $|此外%乌饭树%产业%缺乏%科学%的%技术%指导$
+5_5555_20220311006039|zhuan1 ye4 ren2 cai2 % yu3 % chuan2 tong3 % ji4 yi4 % chuan2 cheng2 % ren2 jiao4 % shao3 $|专业人才%与%传统%技艺%传承%人较%少$
+5_5555_20220311006040|chan3 pin3 % yan2 fa1 % li4 du4 % bu4 gou4 $|产品%研发%力度%不够$
+5_5555_20220311006041|wei4 neng2 % yu3 % lv3 you2 % wen2 chuang4 % deng3 % quan2 yu4 % chan3 ye4 lian4 % jin4 xing2 % shen1 du4 % rong2 he2 $|未能%与%旅游%文创%等%全域%产业链%进行%深度%融合$
+5_5555_20220311006042|she4 hui4 % zong1 he2 xing4 % xiao4 yi4 % bu4 jia1 $|社会%综合性%效益%不佳$
+5_5555_20220311006043|wei4 ci3 % lei2 % jin1 yu4 % jian4 yi4 % da4 li4 fa1 zhan3 % wu1 fan4 shu4 % chan3 ye4 $|为此%雷%金玉%建议%大力发展%乌饭树%产业$
+5_5555_20220311006044|yi1 tuo1 % min3 dong1 % xiang1 cun1 % zhen4 xing1 % yan2 jiu1 yuan4 % deng3 % ji1 gou4 $|依托%闽东%乡村%振兴%研究院%等%机构$
+5_5555_20220311006045|zu3 jian4 % you2 % gao1 xiao4 % ke1 yan2 yuan4 suo3 % zhuan1 jia1 $|组建%由%高校%科研院所%专家$
+5_5555_20220311006046|wu1 fan4 shu4 % xiang1 guan1 % chan3 ye4 % cong2 ye4 zhe3 $|乌饭树%相关%产业%从业者$
+5_5555_20220311006047|cheng2 li4 % wu1 fan4 shu4 % chan3 ye4 lian4 % yan2 jiu1 % tuan2 dui4 $|成立%乌饭树%产业链%研究%团队$
+5_5555_20220311006048|zhi4 ding4 % guan1 yu2 % fa1 zhan3 % wu1 fan4 shu4 % chan3 ye4 % zhu4 tui1 % xiang1 cun1 % zhen4 xing1 % de5 % shi2 shi1 fang1 an4 $|制定%关于%发展%乌饭树%产业%助推%乡村%振兴%的%实施方案$
+5_5555_20220311006049|lian2 he2 % xiang1 guan1 % guan3 li3 % bu4 men2 % chu1 tai2 % cuo4 shi1 $|联合%相关%管理%部门%出台%措施$
+5_5555_20220311006050|bang1 zhu4 % zhi1 chi2 % wu1 fan4 shu4 % xiang1 guan1 % qi3 ye4 % chuang4 jian4 % pin3 pai2 $|帮助%支持%乌饭树%相关%企业%创建%品牌$
+5_5555_20220311006051|quan2 guo2 % xiang1 cun1 % zhen4 xing1 % te4 bie2 jie2 mu4 % re4 bo1 $|全国%乡村%振兴%特别节目%热播$
+5_5555_20220311006052|zuo4 wei2 % gai1 % jie2 mu4 % de5 % zhong4 yao4 % fen1 hui4 chang3 $|作为%该%节目%的%重要%分会场$
+5_5555_20220311006053|zai4 % jie2 mu4 % zhong1 % cheng2 xian4 chu1 % de5 % sheng1 tai4 % mei3 % chan3 ye4 % xing1 % bai3 xing4 % fu4 $|在%节目%中%呈现出%的%生态%美%产业%兴%百姓%富$
+5_5555_20220311006054|xiang1 cun1 % zhen4 xing1 % xin1 % hua4 juan4 % gao1 % guang1 quan1 % fen3 $|乡村%振兴%新%画卷%高%光圈%粉$
+5_5555_20220311006055|feng1 fu4 duo1 cai3 % de5 % min2 su2 wen2 hua4 % he2 % miao2 % xiu4 $|丰富多彩%的%民俗文化%和%苗%绣$
+5_5555_20220311006056|xi1 lan2 % ka3 pu3 % deng3 % fei1 % yi2 % ji4 yi4 % rang4 % ren2 % da4 bao3 yan3 fu2 $|西兰%卡普%等%非%遗%技艺%让%人%大饱眼福$
+5_5555_20220311006057|zan4 tan4 % bu4 % jue2 $|赞叹%不%绝$
+5_5555_20220311006058|xiu4 % niang2 men5 % zai4 % xiu4 % beng1 % shang4 % fei1 zhen1 zou3 xian4 $|绣%娘们%在%绣%绷%上%飞针走线$
+5_5555_20220311006059|wu3 cai3 ban1 lan2 % de5 % si1 xian4 % zai4 % ta1 men5 % shou3 zhong1 % jiu4 % bian4 cheng2 % yi1 fu2 % xu3 xu3 ru2 sheng1 % de5 % tu2 an4 $|五彩斑斓%的%丝线%在%她们%手中%就%变成%一幅%栩栩如生%的%图案$
+5_5555_20220311006060|miao2 xiu4 % chuan2 cheng2 % ren2 % chen2 guo2 tao2 $|苗绣%传承%人%陈国桃$
+5_5555_20220311006061|xi1 lan2 % ka3 pu3 % chuan2 cheng2 % ren2 % zuo3 cui4 ping2 $|西兰%卡普%传承%人%左翠平$
+5_5555_20220311006062|shou3 % peng3 % zi4 ji3 % de5 % zuo4 pin3 % cong2 % gong1 fang1 % huan3 bu4 % qian2 xing2 $|手%捧%自己%的%作品%从%工坊%缓步%前行$
+5_5555_20220311006063|zhuan3 yan3 jian1 % bian4 % chuan1 yue4 % dao4 % yang1 shi4 % yan3 bo1 ting1 % xian4 chang3 $|转眼间%便%穿越%到%央视%演播厅%现场$
+5_5555_20220311006064|ta1 men5 % yi1 bian1 % zhan3 shi4 % zi4 ji3 % de5 % zuo4 pin3 $|他们%一边%展示%自己%的%作品$
+5_5555_20220311006065|yi1 bian1 % jiang1 % dang1 di4 % lao3 bai3 xing4 % de5 % zhi4 fu4 % gu4 shi4 % wei3 wei3 dao4 lai2 $|一边%将%当地%老百姓%的%致富%故事%娓娓道来$
+5_5555_20220311006066|ju4 % xian4 wen2 % lv3 wei3 % xiang1 guan1 % ren2 shi4 % jie4 shao4 $|据%县文%旅委%相关%人士%介绍$
+5_5555_20220311006067|gai1 % xiang4 mu4 % jian4 cheng2 % hou4 $|该%项目%建成%后$
+5_5555_20220311006068|feng1 fu4 % le5 % tuo1 pin2 % fu4 nv3 % gong1 zuo4 % ji4 neng2 $|丰富%了%脱贫%妇女%工作%技能$
+5_5555_20220311006069|yu4 ji4 % mei3 nian2 % zeng1 jia1 shou1 ru4 % er4 shi2 wan4 yuan2 % yi3 shang4 $|预计%每年%增加收入%二十万元%以上$
+5_5555_20220311006070|rang4 % tuo1 pin2 % hu4 % chi2 xu4 % zeng1 jia1 shou1 ru4 $|让%脱贫%户%持续%增加收入$
+5_5555_20220311006071|gong3 gu4 % le5 % tuo1 pin2 % gong1 jian1 % cheng2 guo3 $|巩固%了%脱贫%攻坚%成果$
+5_5555_20220311006072|tuo4 kuan1 % xiao1 shou4 % qu2 dao4 $|拓宽%销售%渠道$
+5_5555_20220311006073|shi2 xian4 % le5 % fei1 % yi2 % chan3 pin3 % xiang4 % shang1 pin3 % de5 % zhuan3 bian4 $|实现%了%非%遗%产品%向%商品%的%转变$
+5_5555_20220311006074|shi4 % chong2 qing4 shi4 % shao3 shu4 min2 zu2 % ren2 kou3 % zui4 duo1 % de5 % xian4 $|是%重庆市%少数民族%人口%最多%的%县$
+5_5555_20220311006075|yong1 you3 % tu3 jia1 % bai3 shou3 % wu3 % guo2 jia1 ji2 % fei1 % wu4 zhi4 % wen2 hua4 yi2 chan3 $|拥有%土家%摆手%舞%国家级%非%物质%文化遗产$
+5_5555_20220311006076|di4 chu3 % da4 shan1 shen1 chu4 $|地处%大山深处$
+5_5555_20220311006077|zi4 gu3 % yu3 % wai4 jie4 % lian2 xi4 % shen2 % shao3 $|自古%与%外界%联系%甚%少$
+5_5555_20220311006078|xiang1 qin1 men5 % jiu4 % ba3 % dui4 % wai4 jie4 % de5 % chong1 jing3 % he2 % dui4 % mei3 hao3 sheng1 huo2 % de5 % yuan4 wang4 % biao3 xian4 % zai4 % ci4 pin3 % zhong1 $|乡亲们%就%把%对%外界%的%憧憬%和%对%美好生活%的%愿望%表现%在%刺品%中$
+5_5555_20220311006079|wu3 cai3 % de5 % long2 % tou2 ding3 % xie3 % wang2 zi4 % de5 % feng4 $|五彩%的%龙%头顶%写%王字%的%凤$
+5_5555_20220311006080|shen1 fei2 % yan3 da4 % de5 % yu2 $|身肥%眼大%的%鱼$
+5_5555_20220311006081|tao2 hua1 % mei2 hua1 % ju2 hua1 % gong4 sheng1 % de5 % shu4 $|桃花%梅花%菊花%共生%的%树$
+5_5555_20220311006082|miao2 zu2 % fu4 nv3 % chuang4 zuo4 % shi2 % tong1 guo4 % yi4 shu4 % de5 % jia1 gong1 $|苗族%妇女%创作%时%通过%艺术%的%加工$
+5_5555_20220311006083|da4 dan3 % jin4 xing2 % kua1 zhang1 % bian4 xing2 $|大胆%进行%夸张%变形$
+5_5555_20220311006084|fu4 you3 % nong2 yu4 % de5 % xiang1 tu3 qi4 xi1 % he2 % yi4 shu4 % gan3 ran3 li4 $|富有%浓郁%的%乡土气息%和%艺术%感染力$
+5_5555_20220311006085|ran2 er2 % sui2 zhe5 % cheng2 shi4 % de5 % fa1 zhan3 $|然而%随着%城市%的%发展$
+5_5555_20220311006086|tuo1 diao4 % miao2 yi1 miao2 % qun2 % de5 % miao2 zu2 % nian2 qing1 ren2 % zou3 chu1 % le5 % da4 shan1 $|脱掉%苗衣苗%裙%的%苗族%年轻人%走出%了%大山$
+5_5555_20220311006087|miao2 xiu4 % ye3 % jian4 jian4 % tun4 qu4 % le5 % xi1 ri4 % de5 % guang1 cai3 $|苗绣%也%渐渐%褪去%了%昔日%的%光彩$
+5_5555_20220311006088|tuo1 pin2 % gong1 jian1 % duan3 qi1 % kao4 % zheng4 ce4 $|脱贫%攻坚%短期%靠%政策$
+5_5555_20220311006089|chang2 qi1 % kao4 % chan3 ye4 $|长期%靠%产业$
+5_5555_20220311006090|gong1 si1 % jia1 cun1 % ji2 ti3 jing1 ji4 % zu3 zhi1 % jia1 % nong2 hu4 % de5 % chan3 ye4 % fa1 zhan3 % mo2 shi4 $|公司%加村%集体经济%组织%加%农户%的%产业%发展%模式$
+5_5555_20220311006091|gong1 si1 % tou2 ru4 % zi1 jin1 % ji4 shu4 % guan3 li3 % you3 ji1 fei2 $|公司%投入%资金%技术%管理%有机肥$
+5_5555_20220311006092|nong2 hu4 % yi3 % tu3 di4 % ru4 gu3 $|农户%以%土地%入股$
+5_5555_20220311006093|liang2 hao3 % de5 % he2 zuo4 % mo2 shi4 % tui1 dong4 % le5 % nong2 cun1 % san1 bian4 % gai3 ge2 $|良好%的%合作%模式%推动%了%农村%三变%改革$
+5_5555_20220311006094|ji1 huo2 % le5 % chen2 shui4 % de5 % zi1 yuan2 $|激活%了%沉睡%的%资源$
+5_5555_20220311006095|shi2 xian4 % le5 % zi1 yuan2 % bian4 % zi1 chan3 % zi1 jin1 % bian4 % gu3 jin1 $|实现%了%资源%变%资产%资金%变%股金$
+5_5555_20220311006096|nong2 min2 % bian4 % gu3 dong1 $|农民%变%股东$
+5_5555_20220311006097|tong1 guo4 % gu3 quan2 % he2 % li4 yi4 % lian2 jie2 $|通过%股权%和%利益%联结$
+5_5555_20220311006098|you3 xiao4 % di4 % diao4 dong4 % cun1 % ji2 ti3 jing1 ji4 % zu3 zhi1 % he2 % nong2 hu4 % de5 % ji1 ji2 xing4 $|有效%地%调动%村%集体经济%组织%和%农户%的%积极性$
+5_5555_20220311006099|zou3 chu1 % le5 % yi1 tiao2 % ji4 % fu2 he2 % guo2 qi3 % gao1 zhi4 liang4 % fa1 zhan3 $|走出%了%一条%既%符合%国企%高质量%发展$
+5_5555_20220311006100|you4 % zhu4 li4 % nong2 hu4 % jiu4 ye4 % zeng1 shou1 % de5 % hao3 % lu4 zi5 $|又%助力%农户%就业%增收%的%好%路子$
+5_5555_20220311007001|ting1 shuo1 % feng1 yi1 % jia1 % jiu3 fen1 % ku4 $|听说%风衣%加%九分%裤$
+5_5555_20220311007002|zai4 % jin1 nian2 % chun1 tian1 % hen3 huo3 $|在%今年%春天%很火$
+5_5555_20220311007003|bu4 guang1 % yang2 qi4 % xian3 shou4 % hai2 % rang4 % ni3 % qi4 zhi4 % fan1 bei4 $|不光%洋气%显瘦%还%让%你%气质%翻倍$
+5_5555_20220311007004|zhe4 % shi4 fou3 % shu3 shi2 % ne5 $|这%是否%属实%呢$
+5_5555_20220311007005|jin1 tian1 % de5 % nei4 rong2 % wo3 men5 % hao3 hao3 % liao2 yi1 liao2 $|今天%的%内容%我们%好好%聊一聊$
+5_5555_20220311007006|jie1 xia4 lai2 % jiang1 % cong2 % chuan1 % da1 % you1 shi4 % chuan1 % da1 % ji4 qiao3 % chuan1 % da1 % shi4 fan4 % san1 % fang1 mian4 $|接下来%将%从%穿%搭%优势%穿%搭%技巧%穿%搭%示范%三%方面$
+5_5555_20220311007007|dai4 % da4 jia1 % quan2 mian4 % liao3 jie3 % feng1 yi1 % jia1 % jiu3 fen1 % ku4 $|带%大家%全面%了解%风衣%加%九分%裤$
+5_5555_20220311007008|wo3 % bi4 xu1 % ti2 qian2 % gao4 su4 % da4 jia1 % de5 % shi4 $|我%必须%提前%告诉%大家%的%是$
+5_5555_20220311007009|feng1 yi1 % da1 pei4 % jiu3 fen1 % ku4 shi4 % yi1 zhong3 % mei2 you3 % nian2 ling2 % jie4 xian4 % de5 % chuan1 % da1 $|风衣%搭配%九分%裤是%一种%没有%年龄%界限%的%穿%搭$
+5_5555_20220311007010|cong2 % shi2 duo1 sui4 % de5 % xiao3 gu1 niang2 % dao4 % ben1 si4 % ben1 % wu3 % de5 % da4 ling2 % nv3 xing4 $|从%十多岁%的%小姑娘%到%奔四%奔%五%的%大龄%女性$
+5_5555_20220311007011|xi1 wang4 % suo3 you3 % nv3 xing4 % wang4 ji4 % zi4 ji3 % de5 % nian2 ling2 $|希望%所有%女性%忘记%自己%的%年龄$
+5_5555_20220311007012|jin3 guan3 % feng1 yi1 % de5 % yi1 zhang3 % you3 % chang2 duan3 % zhi1 fen1 $|尽管%风衣%的%衣长%有%长短%之分$
+5_5555_20220311007013|fen1 wei2 % duan3 kuan3 % zhong1 chang2 kuan3 $|分为%短款%中长款$
+5_5555_20220311007014|dan4 % yin1 wei4 % chuan1 % duan3 kuan3 % feng1 yi1 $|但%因为%穿%短款%风衣$
+5_5555_20220311007015|zhong1 chang2 kuan3 % feng1 yi1 % de5 % ren2 % hen3 shao3 $|中长款%风衣%的%人%很少$
+5_5555_20220311007016|suo3 yi3 % zai4 % ren2 men5 % de5 % ren4 zhi1 % li3 $|所以%在%人们%的%认知%里$
+5_5555_20220311007017|feng1 yi1 % yi4 zhi2 % dou1 % shi4 % chang2 chang2 de5 % yang4 zi5 $|风衣%一直%都%是%长长的%样子$
+5_5555_20220311007018|yi1 bai3 % zhang3 % de5 % dan1 pin3 $|衣摆%长%的%单品$
+5_5555_20220311007019|huo4 duo1 huo4 shao3 % dai4 xie1 % fan2 zhong4 % tuo1 ta4 % gan3 $|或多或少%带些%繁重%拖沓%感$
+5_5555_20220311007020|feng1 yi1 % ye3 % bu4 % li4 wai4 $|风衣%也%不%例外$
+5_5555_20220311007021|er2 % yu3 % jiu3 fen1 % ku4 % jin4 xing2 % da1 pei4 % shi2 $|而%与%九分%裤%进行%搭配%时$
+5_5555_20220311007022|ke3 yi3 % jie4 zhu4 % jiu3 fen1 % ku4 % de5 % lu4 fu1 % mian4 ji1 $|可以%借助%九分%裤%的%露肤%面积$
+5_5555_20220311007023|jian3 shao3 % feng1 yi1 % de5 % fan2 zhong4 % tuo1 ta4 % gan3 $|减少%风衣%的%繁重%拖沓%感$
+5_5555_20220311007024|xian3 gao1 % xian3 tui3 zhang3 $|显高%显腿长$
+5_5555_20220311007025|jiu3 fen1 % ku4 % de5 % ku4 zhang3 % bu2 shi4 % hen3 zhang3 $|九分%裤%的%裤长%不是%很长$
+5_5555_20220311007026|zhang3 zhi4 % jiao3 huai2 % yi3 shang4 % wu3 % gong1 fen1 % de5 % wei4 zhi4 $|长至%脚踝%以上%五%公分%的%位置$
+5_5555_20220311007027|lu4 chu1 % lai2 % de5 % yi1 xiao3 % jie2 % tui3 bu4 $|露出%来%的%一小%截%腿部$
+5_5555_20220311007028|xian3 gao1 % xian3 tui3 zhang3 % de5 % chuan1 yi1 % xiao4 guo3 $|显高%显腿长%的%穿衣%效果$
+5_5555_20220311007029|ju4 you3 % yan2 chang2 % tui3 xian4 $|具有%延长%腿线$
+5_5555_20220311007030|xiang4 % xia4 mian4 % zhe4 zhong3 % ku4 xing2 $|像%下面%这种%裤型$
+5_5555_20220311007031|jin3 jin3 % tie1 zhe5 % tui3 bu4 $|紧紧%贴着%腿部$
+5_5555_20220311007032|zai4 % ku4 tui3 % de5 % bao1 guo3 % xia4 $|在%裤腿%的%包裹%下$
+5_5555_20220311007033|yu3 % yi1 bai3 % hen3 zhang3 % de5 % feng1 yi1 % da1 pei4 % zai4 % yi4 qi3 $|与%衣摆%很长%的%风衣%搭配%在%一起$
+5_5555_20220311007034|fan3 dao4 % shi4 % geng4 % xian3 tui3 zhang3 $|反倒%是%更%显腿长$
+5_5555_20220311007035|geng4 % xian3 tui3 xi4 $|更%显腿细$
+5_5555_20220311007036|ji2 % you1 ya3 % da4 qi4 % gao1 ji2 % zhi1 xing4 % si4 zhong3 % mei4 li4 % yu2 % yi1 shen1 % de5 % feng1 yi1 $|集%优雅%大气%高级%知性%四种%魅力%于%一身%的%风衣$
+5_5555_20220311007037|ti2 sheng1 % ge4 ren2 % qi4 zhi4 $|提升%个人%气质$
+5_5555_20220311007038|kan1 cheng1 % shi4 % ti2 sheng1 % qi4 zhi4 % de5 % hao3 bang1 shou3 $|堪称%是%提升%气质%的%好帮手$
+5_5555_20220311007039|mei2 % qi4 zhi4 % de5 % nv3 sheng1 % chuan1 % shang4 % feng1 yi1 $|没%气质%的%女生%穿%上%风衣$
+5_5555_20220311007040|cheng2 wei2 % qi4 zhi4 % nv3 shen2 % bu2 shi4 % meng4 $|成为%气质%女神%不是%梦$
+5_5555_20220311007041|ling4 wai4 % you2 yu2 % jiu3 fen1 % ku4 % ce4 zhong4 yu2 % xiu1 tui3 % xian3 shou4 $|另外%由于%九分%裤%侧重于%修腿%显瘦$
+5_5555_20220311007042|suo3 yi3 % wan2 quan2 % bu4 yong4 % dan1 xin1 % jiu3 fen1 % ku4 % shi4 fou3 % ying3 xiang3 % dao4 % feng1 yi1 % de5 % feng1 ge2 % mei4 li4 $|所以%完全%不用%担心%九分%裤%是否%影响%到%风衣%的%风格%魅力$
+5_5555_20220311007043|feng1 yi1 % chang3 kai1 % lai2 % chuan1 $|风衣%敞开%来%穿$
+5_5555_20220311007044|chuan1 % da1 % ji4 qiao3 $|穿%搭%技巧$
+5_5555_20220311007045|tong2 % yi1 jian4 % feng1 yi1 $|同%一件%风衣$
+5_5555_20220311007046|chuan1 % da1 % xiao4 guo3 % shi4 % bu4 % yi1 yang4 % de5 $|穿%搭%效果%是%不%一样%的$
+5_5555_20220311007047|qian2 zhe3 % zhong4 zai4 % zhan3 xian4 % shen1 cai2 $|前者%重在%展现%身材$
+5_5555_20220311007048|hou4 zhe3 % zhong4 zai4 % zhan3 xian4 % qi4 chang3 $|后者%重在%展现%气场$
+5_5555_20220311007049|xiang1 % bi3 jiao4 er2 yan2 $|相%比较而言$
+5_5555_20220311007050|wo3 % geng4 % jian4 yi4 % ba3 % feng1 yi1 % chang3 kai1 % lai2 % chuan1 $|我%更%建议%把%风衣%敞开%来%穿$
+5_5555_20220311007051|zhang1 xian3 % qiang2 da4 % qi4 chang3 % de5 % tong2 shi2 $|彰显%强大%气场%的%同时$
+5_5555_20220311007052|hai2 % ke3 yi3 % jie4 zhu4 % nei4 % da1 % dan1 pin3 $|还%可以%借助%内%搭%单品$
+5_5555_20220311007053|fu4 yu3 % feng1 yi1 % bie2 yang4 % de5 % shi2 shang4 % mei4 li4 $|赋予%风衣%别样%的%时尚%魅力$
+5_5555_20220311007054|feng1 yi1 % da1 pei4 % xiu1 shen1 % nei4 % da1 $|风衣%搭配%修身%内%搭$
+5_5555_20220311007055|dui4 yu2 % feng1 yi1 % de5 % nei4 % da1 % da1 pei4 $|对于%风衣%的%内%搭%搭配$
+5_5555_20220311007056|wo3 % jian4 yi4 % da4 jia1 % da1 pei4 % xiu1 shen1 % nei4 % da1 $|我%建议%大家%搭配%修身%内%搭$
+5_5555_20220311007057|lei4 si4 % yu2 % da3 di3 % shan1 % zhen1 zhi1 shan1 % zhen1 zhi1 % bei4 xin1 % zhe4 xie1 % dan1 pin3 $|类似%于%打底%衫%针织衫%针织%背心%这些%单品$
+5_5555_20220311007058|yi1 lai2 % ke3 yi3 % bi4 mian3 % nei4 % da1 % yu3 % feng1 yi1 % chan3 sheng1 % yong1 zhong3 % gan3 $|一来%可以%避免%内%搭%与%风衣%产生%臃肿%感$
+5_5555_20220311007059|er4 lai2 % ke3 yi3 % li4 yong4 % xiu1 shen1 % nei4 % da1 % de5 % xiu1 shen1 % xing4 $|二来%可以%利用%修身%内%搭%的%修身%性$
+5_5555_20220311007060|xiu4 chu1 % shang4 ban4 shen1 % shen1 cai2 $|秀出%上半身%身材$
+5_5555_20220311007061|xie2 zi5 % de5 % xuan3 ze2 % ye3 % hen3 % zhong4 yao4 $|鞋子%的%选择%也%很%重要$
+5_5555_20220311007062|bing4 qie3 % tong1 guo4 % xia4 mian4 % zhe4 wei4 % bo2 zhu3 % de5 % da1 pei4 $|并且%通过%下面%这位%博主%的%搭配$
+5_5555_20220311007063|wo3 % jian4 yi4 % da4 jia1 % shi4 shi4 % dai4 % gen1 % xie2 zi5 $|我%建议%大家%试试%带%跟%鞋子$
+5_5555_20220311007064|jiu3 fen1 % ku4 % da1 pei4 % dai4 % gen1 % xie2 zi5 $|九分%裤%搭配%带%跟%鞋子$
+5_5555_20220311007065|jin4 yi2 bu4 % tu1 xian3 % feng1 yi1 % da1 pei4 % jiu3 fen1 % ku4 % de5 % xian3 gao1 % xian3 tui3 zhang3 % xiao4 guo3 $|进一步%凸显%风衣%搭配%九分%裤%的%显高%显腿长%效果$
+5_5555_20220311007066|xu1 yao4 % da4 jia1 % zhu4 yi4 % de5 % shi4 $|需要%大家%注意%的%是$
+5_5555_20220311007067|dai4 % gen1 % xie2 zi5 % de5 % xie2 gen1 % cun2 zai4 % cu1 xi4 % zhi1 fen1 $|带%跟%鞋子%的%鞋跟%存在%粗细%之分$
+5_5555_20220311007068|cu1 % gen1 % xie2 zi5 % chuan1 % qi3 lai2 % shu1 shi4 % zi4 % zai4 $|粗%跟%鞋子%穿%起来%舒适%自%在$
+5_5555_20220311007069|bu4 lei4 % jiao3 $|不累%脚$
+5_5555_20220311007070|xi4 % gen1 % xie2 zi5 % chuan1 % qi3 lai2 % sui1 ran2 % bu4 gou4 % shu1 shi4 % dan4 % gan4 lian4 % li4 luo4 % you3 % qi4 zhi4 $|细%跟%鞋子%穿%起来%虽然%不够%舒适%但%干练%利落%有%气质$
+5_5555_20220311007071|xiang1 dui4 er2 yan2 % xi4 % gen1 % xie2 zi5 % geng4 % shi4 he2 % yong4 lai2 % da1 pei4 % feng1 yi1 % jia1 % jiu3 fen1 % ku4 $|相对而言%细%跟%鞋子%更%适合%用来%搭配%风衣%加%九分%裤$
+5_5555_20220311007072|da1 pei4 % qi2 ta1 % xie2 zi5 % ye3 % shi4 % ke3 yi3 % de5 $|搭配%其它%鞋子%也%是%可以%的$
+5_5555_20220311007073|ru2 guo3 % ni3 % bu4 % xi3 huan1 % chuan1 dai4 % gen1 % xie2 zi5 $|如果%你%不%喜欢%穿带%跟%鞋子$
+5_5555_20220311007074|yin1 wei4 % da1 pei4 % dai4 % gen1 % xie2 zi5 % zhi3 shi4 % yi2 ge4 % xian3 gao1 % chuan1 % da1 % ji4 qiao3 $|因为%搭配%带%跟%鞋子%只是%一个%显高%穿%搭%技巧$
+5_5555_20220311007075|bing4 % bu4 % dai4 biao3 % zhe5 % bi4 xu1 % da1 pei4 % dai4 % gen1 % xie2 zi5 $|并%不%代表%着%必须%搭配%带%跟%鞋子$
+5_5555_20220311007076|hui1 se4 % feng1 yi1 % zi4 dai4 % gao1 ji2 % da4 qi4 % gan3 $|灰色%风衣%自带%高级%大气%感$
+5_5555_20220311007077|hei1 se4 % jiu3 fen1 % ku4 % zi4 dai4 % cheng2 shu2 % wen3 zhong4 % gan3 $|黑色%九分%裤%自带%成熟%稳重%感$
+5_5555_20220311007078|er4 zhe3 % da1 pei4 % zai4 % yi4 qi3 % gao1 ji2 % you4 % cheng2 shu2 $|二者%搭配%在%一起%高级%又%成熟$
+5_5555_20220311007079|fei1 chang2 shi4 he2 % you3 % yi1 xie1 % she4 hui4 % yue4 li4 % de5 % da4 ling2 % nv3 xing4 $|非常适合%有%一些%社会%阅历%的%大龄%女性$
+5_5555_20220311007080|zhang1 xian3 % chu1 % mi2 ren2 % de5 % cheng2 shu2 % zhi1 mei3 $|彰显%出%迷人%的%成熟%之美$
+5_5555_20220311007081|ci3 wai4 % hui1 se4 % hei1 se4 % dou1 % shu3 yu2 % ji1 chu3 % se4 $|此外%灰色%黑色%都%属于%基础%色$
+5_5555_20220311007082|ju4 you3 % yong3 bu4 % guo4 shi2 % de5 % shu3 xing4 $|具有%永不%过时%的%属性$
+5_5555_20220311007083|wo3 men5 % wan2 quan2 % bu4 yong4 % dan1 xin1 $|我们%完全%不用%担心$
+5_5555_20220311007084|qian2 mian4 % shuo1 % guo4 % chuan1 % zhong1 chang2 kuan3 % feng1 yi1 % de5 % ren2 % hen3 shao3 $|前面%说%过%穿%中长款%风衣%的%人%很少$
+5_5555_20220311007085|you3 % liang3 ge4 % zhi2 de5 % wo3 men5 % xue2 xi2 % jie4 jian4 % de5 % di4 fang1 $|有%两个%值得%我们%学习%借鉴%的%地方$
+5_5555_20220311007086|tan2 % nv3 shi4 % jie4 shao4 $|谭%女士%介绍$
+5_5555_20220311007087|ta1 % nv3 er2 % zai4 % shi2 jia1 zhuang1 % yi1 jia1 % wu3 dao3 % pei2 xun4 % ji1 gou4 % xue2 % wu3 dao3 $|她%女儿%在%石家庄%一家%舞蹈%培训%机构%学%舞蹈$
+5_5555_20220311007088|ta1 % lai2 dao4 % zhe4 jia1 % ji1 gou4 % zhun3 bei4 % jie1 % nv3 er2 % fang4 xue2 $|她%来到%这家%机构%准备%接%女儿%放学$
+5_5555_20220311007089|dang1 shi2 % li2 % fang4 xue2 % hai2 you3 % yi4 dian3 % shi2 jian1 $|当时%离%放学%还有%一点%时间$
+5_5555_20220311007090|wo3 % kan4 dao4 % xue2 xiao4 % li3 % lai2 % le5 % yi1 ming2 % wai4 mai4 % qi2 shou3 $|我%看到%学校%里%来%了%一名%外卖%骑手$
+5_5555_20220311007091|zhun3 bei4 % jie1 % wo3 % nv3 er2 % ban1 li3 % yi1 ming2 % tong2 xue2 % hui2 jia1 $|准备%接%我%女儿%班里%一名%同学%回家$
+5_5555_20220311007092|ta1 % xun2 wen4 % lao3 shi1 % de2 zhi1 $|她%询问%老师%得知$
+5_5555_20220311007093|yuan2 lai2 % shi4 % xiao3 nv3 hai2 % de5 % jia1 zhang3 % you3 % ji2 shi4 $|原来%是%小女孩%的%家长%有%急事$
+5_5555_20220311007094|you4 % dan1 xin1 % jiao1 tong1 yong1 du3 $|又%担心%交通拥堵$
+5_5555_20220311007095|lai2 bu4 ji2 % zhun3 dian3 % gan3 lai2 % jie1 % nv3 er2 $|来不及%准点%赶来%接%女儿$
+5_5555_20220311007096|bian4 % zai4 % wai4 mai4 % ping2 tai2 % xia4 dan1 $|便%在%外卖%平台%下单$
+5_5555_20220311007097|gu4 % le5 % yi1 ming2 % qi2 shou3 % bang1 mang2 % jie1 % hai2 zi5 $|雇%了%一名%骑手%帮忙%接%孩子$
+5_5555_20220311007098|zhe4 wei4 % jia1 zhang3 % ye3 % ti2 qian2 % gen1 % lao3 shi1 % da3 % le5 % zhao1 hu1 $|这位%家长%也%提前%跟%老师%打%了%招呼$
+5_5555_20220311007099|wai4 mai4 % qi2 shou3 % xian4 chang3 % ye3 % gei3 % hai2 zi5 % pai1 zhao4 $|外卖%骑手%现场%也%给%孩子%拍照$
+5_5555_20220311007100|fa1 gei3 % jia1 zhang3 % que4 ren4 $|发给%家长%确认$
+5_5555_20220311008001|na4 ming2 % nv3 hai2 % gen1 % wo3 % nv3 er2 % cha4 bu4 duo1 % da4 $|那名%女孩%跟%我%女儿%差不多%大$
+5_5555_20220311008002|dan4 % ta1 % dan3 zi5 % bi3 % wo3 % nv3 er2 % da4 $|但%她%胆子%比%我%女儿%大$
+5_5555_20220311008003|da4 da4 fang1 fang1 % gen1 % wai4 mai4 % qi2 shou3 % zou3 % le5 $|大大方方%跟%外卖%骑手%走%了$
+5_5555_20220311008004|ta1 % shi4 hou4 % wen4 % zi4 ji3 % nv3 er2 $|她%事后%问%自己%女儿$
+5_5555_20220311008005|ru2 guo3 % shi4 % wai4 mai4 % qi2 shou3 % lai2 jie1 % ta1 % ta1 % gan3 bu4 gan3 % yi4 qi3 % zou3 $|如果%是%外卖%骑手%来接%她%她%敢不敢%一起%走$
+5_5555_20220311008006|nv3 er2 % shuo1 % bu4 gan3 $|女儿%说%不敢$
+5_5555_20220311008007|sui1 ran2 % zi4 ji3 % ou3 er3 % ye3 % hui4 % zai4 % wai4 mai4 % ping2 tai2 % xia4 dan1 $|虽然%自己%偶尔%也%会%在%外卖%平台%下单$
+5_5555_20220311008008|wei3 tuo1 % xiao3 ge1 % bang1 % nv3 er2 % song4 % shi4 juan4 % zhi1 lei4 % de5 $|委托%小哥%帮%女儿%送%试卷%之类%的$
+5_5555_20220311008009|yi2 ge4 % dan1 % ye3 % jiu4 % yi1 er4 shi2 yuan2 $|一个%单%也%就%一二十元$
+5_5555_20220311008010|dan4 % ye3 % bu4 gan3 % qing3 % wai4 mai4 % qi2 shou3 % qu4 % jie1 % xiao3 hai2 $|但%也%不敢%请%外卖%骑手%去%接%小孩$
+5_5555_20220311008011|sui1 ran2 % wai4 mai4 % ping2 tai2 % de5 % qi2 shou3 % shen1 fen4 % dou1 % jing1 guo4 % le5 % shen3 he2 $|虽然%外卖%平台%的%骑手%身份%都%经过%了%审核$
+5_5555_20220311008012|er2 qie3 % tong1 guo4 % ping2 tai2 % ke3 yi3 % cha2 kan4 % qi2 shou3 % de5 % shi2 shi2 % wei4 zhi4 $|而且%通过%平台%可以%查看%骑手%的%实时%位置$
+5_5555_20220311008013|dan4 jie1 % hai2 zi5 % zhe4 zhong3 % shi4 qing2 % hai2 shi4 % jia1 zhang3 % zi4 ji3 % lai2 % bi3 jiao4 % fang4 xin1 $|但接%孩子%这种%事情%还是%家长%自己%来%比较%放心$
+5_5555_20220311008014|gai1 % wu3 dao3 % pei2 xun4 % ji1 gou4 % de5 % lao3 shi1 % gao4 su4 % ji2 mu4 % xin1 wen2 ji4 zhe3 $|该%舞蹈%培训%机构%的%老师%告诉%极目%新闻记者$
+5_5555_20220311008015|bei4 % jie1 % zou3 % de5 % nv3 sheng1 % lai2 xue2 % tiao4 wu3 % you3 % ban4 nian2 % duo1 % le5 $|被%接%走%的%女生%来学%跳舞%有%半年%多%了$
+5_5555_20220311008016|dang4 tian1 % nv3 sheng1 % de5 % ma1 ma1 % que4 shi2 % you3 % ji2 shi4 $|当天%女生%的%妈妈%确实%有%急事$
+5_5555_20220311008017|xia4 dan1 % hou4 % ye3 % gen1 % ta1 % da3 dian4 hua4 % que4 ren4 % le5 $|下单%后%也%跟%她%打电话%确认%了$
+5_5555_20220311008018|ta1 % ye3 % an1 fu3 % le5 % hai2 zi5 $|她%也%安抚%了%孩子$
+5_5555_20220311008019|bing4 % shuo1 % qing1 % le5 % yuan2 you2 $|并%说%清%了%缘由$
+5_5555_20220311008020|cheng1 % deng3 % qi2 shou3 % dao4 % le5 % zhi1 hou4 $|称%等%骑手%到%了%之后$
+5_5555_20220311008021|hai2 zi5 % ke3 yi3 % fang4 xin1 % gen1 % qi2 shou3 % yi4 qi3 % li2 kai1 $|孩子%可以%放心%跟%骑手%一起%离开$
+5_5555_20220311008022|lin2 zou3 shi2 % ta1 % hai2 % ding1 zhu3 % hai2 zi5 $|临走时%她%还%叮嘱%孩子$
+5_5555_20220311008023|dao4 jia1 % hou4 % rang4 % ma1 ma1 % lai2 ge4 % dian4 hua4 % bao4 ping2 an1 $|到家%后%让%妈妈%来个%电话%报平安$
+5_5555_20220311008024|dang4 tian1 % da4 yue1 % er4 shi2 fen1 zhong1 % hou4 % zhe4 ge4 % hai2 zi5 % jiu4 % dao4 % jia1 % le5 $|当天%大约%二十分钟%后%这个%孩子%就%到%家%了$
+5_5555_20220311008025|ta1 % de5 % ma1 ma1 % ye3 % gei3 % ai4 % lao3 shi1 % da3 % lai2 % dian4 hua4 $|她%的%妈妈%也%给%艾%老师%打%来%电话$
+5_5555_20220311008026|jia1 zhang3 % shi4 % lin2 shi2 % xia4 dan1 % de5 $|家长%是%临时%下单%的$
+5_5555_20220311008027|zhe4 ge4 % hai2 zi5 % he2 % lai2 % jie1 % ta1 % de5 % qi2 shou3 % bing4 % bu4 % ren4 shi2 $|这个%孩子%和%来%接%她%的%骑手%并%不%认识$
+5_5555_20220311008028|zi4 ji3 % ye3 % shi4 % tou2 yi1 hui2 % yu4 dao4 % you3 % jia1 zhang3 % qing3 % qi2 shou3 % lai2 jie1 % hai2 zi5 % fang4 xue2 $|自己%也%是%头一回%遇到%有%家长%请%骑手%来接%孩子%放学$
+5_5555_20220311008029|lv4 shi1 % bu4 % jian4 yi4 % pin4 qing3 % mo4 sheng1 ren2 % dang1 % lin2 shi2 % jian1 hu4 ren2 $|律师%不%建议%聘请%陌生人%当%临时%监护人$
+5_5555_20220311008030|shang4 shu4 % shi4 pin2 % hen3 kuai4 % yin3 fa1 % guan1 zhu4 $|上述%视频%很快%引发%关注$
+5_5555_20220311008031|wang3 you3 % dui4 ci3 % yi4 lun4 fen1 fen1 $|网友%对此%议论纷纷$
+5_5555_20220311008032|you3 % de5 % wang3 you3 % cheng1 % zhen1 shi4 % yi2 ge4 % gan3 % xia4 dan1 % yi2 ge4 % gan3 % jie1 dan1 $|有%的%网友%称%真是%一个%敢%下单%一个%敢%接单$
+5_5555_20220311008033|hai2 you3 % wang3 you3 % dan1 xin1 % wan4 yi1 % zhong1 tu2 % fa1 sheng1 % jiao1 tong1 % yi4 wai4 % za3 ban4 $|还有%网友%担心%万一%中途%发生%交通%意外%咋办$
+5_5555_20220311008034|ji2 mu4 % xin1 wen2 ji4 zhe3 % zhu4 yi4 % dao4 $|极目%新闻记者%注意%到$
+5_5555_20220311008035|zai4 % yi1 xie1 % tong2 % cheng2 % xin4 xi1 % fu2 wu4 ping2 tai2 $|在%一些%同%城%信息%服务平台$
+5_5555_20220311008036|ye3 % you3 % jia1 zheng4 gong1 si1 % huo4 % ge4 ren2 % ti2 gong1 % lin2 shi2 % jie1 song4 % hai2 zi5 % de5 % fu2 wu4 $|也%有%家政公司%或%个人%提供%临时%接送%孩子%的%服务$
+5_5555_20220311008037|you3 % de5 % biao1 jia4 % si4 shi2 wu3 % yuan2 % mei3 % xiao3 shi2 $|有%的%标价%四十五%元%每%小时$
+5_5555_20220311008038|ji2 mu4 % xin1 wen2 ji4 zhe3 % zi1 xun2 % yi1 % wai4 mai4 % ping2 tai2 % ren2 gong1 % ke4 fu2 $|极目%新闻记者%咨询%一%外卖%平台%人工%客服$
+5_5555_20220311008039|xun2 wen4 % pao3 tui3 % fu2 wu4 % neng2 fou3 % dai4 wei2 % jie1 song4 % xiao3 hai2 $|询问%跑腿%服务%能否%代为%接送%小孩$
+5_5555_20220311008040|dui4 fang1 % biao3 shi4 % zhe4 % xu1 yao4 % ke4 hu4 % yu3 % jie1 dan1 % de5 % qi2 shou3 % xie2 shang1 $|对方%表示%这%需要%客户%与%接单%的%骑手%协商$
+5_5555_20220311008041|ru2 guo3 % wan4 yi1 % chu1 xian4 % shen2 me5 % wen4 ti2 $|如果%万一%出现%什么%问题$
+5_5555_20220311008042|ping2 tai2 % zhi3 neng2 % xie2 zhu4 $|平台%只能%协助$
+5_5555_20220311008043|zhe4 ge4 % bu4 % shu3 yu2 % ye4 wu4 fan4 wei2 $|这个%不%属于%业务范围$
+5_5555_20220311008044|hai2 shi4 % jian4 yi4 % ke4 hu4 % yu3 % jie1 dan1 % de5 % qi2 shou3 % xie2 shang1 % hao3 $|还是%建议%客户%与%接单%的%骑手%协商%好$
+5_5555_20220311008045|hu2 bei3 % hao3 lv4 % lv4 shi1 % shi4 wu4 suo3 % zhu3 ren4 % lv4 shi1 % chen2 liang4 % ren4 wei2 $|湖北%好律%律师%事务所%主任%律师%陈亮%认为$
+5_5555_20220311008046|jia1 zhang3 % zuo4 wei2 % hai2 zi5 % de5 % fa3 ding4 % jian1 hu4 ren2 $|家长%作为%孩子%的%法定%监护人$
+5_5555_20220311008047|you3 % pin4 qing3 % lin2 shi2 % jian1 hu4 ren2 % de5 % quan2 li4 $|有%聘请%临时%监护人%的%权利$
+5_5555_20220311008048|pei2 xun4 % ji1 gou4 % zai4 % que4 ren4 % qi2 shou3 % yi3 % de2 dao4 % jia1 zhang3 % shou4 quan2 % hou4 $|培训%机构%在%确认%骑手%已%得到%家长%授权%后$
+5_5555_20220311008049|ke3 yi3 % rang4 % hai2 zi5 % gen1 % qi2 shou3 % li2 kai1 $|可以%让%孩子%跟%骑手%离开$
+5_5555_20220311008050|bu4 guo4 % jia1 zhang3 % ji2 bian4 % shi4 % qing3 % le5 % lin2 shi2 % jian1 hu4 ren2 $|不过%家长%即便%是%请%了%临时%监护人$
+5_5555_20220311008051|dan4 % bu4 neng2 % mian3 chu2 % zi4 ji3 % de5 % jian1 hu4 % yi4 wu4 $|但%不能%免除%自己%的%监护%义务$
+5_5555_20220311008052|wan4 yi1 % zai4 % jie1 song4 % tu2 zhong1 % chu1 xian4 % wen4 ti2 $|万一%在%接送%途中%出现%问题$
+5_5555_20220311008053|jia1 zhang3 % ying1 % cheng2 dan1 % xiang1 ying4 % ze2 ren4 $|家长%应%承担%相应%责任$
+5_5555_20220311008054|er2 % qi2 shou3 % yi3 ji2 % qi2 % suo3 zai4 % ping2 tai2 % ye3 % yao4 % cheng2 dan1 % xiang1 ying4 % ze2 ren4 $|而%骑手%以及%其%所在%平台%也%要%承担%相应%责任$
+5_5555_20220311008055|dan4 % ye3 % bu4 neng2 % sui2 yi4 % zhao3 % dai4 li3 ren2 $|但%也%不能%随意%找%代理人$
+5_5555_20220311008056|bu4 % jian4 yi4 % jia1 zhang3 % tong1 guo4 % wai4 mai4 % deng3 % ping2 tai2 $|不%建议%家长%通过%外卖%等%平台$
+5_5555_20220311008057|lin2 shi2 % zhao3 % mo4 sheng1 ren2 % dai4 jie1 % hai2 zi5 % fang4 xue2 $|临时%找%陌生人%代接%孩子%放学$
+5_5555_20220311008058|qing1 tong2 zhi4 % shi2 san1 nian2 $|清同治%十三年$
+5_5555_20220311008059|chu1 % sheng1 yu2 % ma2 jiang1 % yi2 ge4 % shu1 xiang1 % guan1 % huan4 zhi1 jia1 $|出%生于%麻江%一个%书香%官%宦之家$
+5_5555_20220311008060|zi4 you4 % sui2 % duo1 nian2 % zai4 % yun2 nan2 % si4 chuan1 % deng3 % ren4 guan1 % de5 % fu4 qin1 % xia4 yuan2 % ben1 zou3 % ge4 di4 $|自幼%随%多年%在%云南%四川%等%任官%的%父亲%夏源%奔走%各地$
+5_5555_20220311008061|jian4 duo1 shi2 guang3 $|见多识广$
+5_5555_20220311008062|chu1 % sheng1 yu2 % guan1 % huan4 zhi1 jia1 $|出%生于%官%宦之家$
+5_5555_20220311008063|mei2 you3 % tang3 % zai4 % qian2 ren2 % de5 % gong1 lao2 bu4 % shang4 % shui4 da4 jue2 $|没有%躺%在%前人%的%功劳簿%上%睡大觉$
+5_5555_20220311008064|xiang1 fan3 % que4 % qin2 li4 % yong4 xin1 % ke4 ku3 % gong1 du2 $|相反%却%勤力%用心%刻苦%攻读$
+5_5555_20220311008065|guang1 xu4 % shi2 jiu3 nian2 $|光绪%十九年$
+5_5555_20220311008066|can1 jia1 % gui4 zhou1 % xiang1 shi4 % zhong1 ju3 $|参加%贵州%乡试%中举$
+5_5555_20220311008067|guang1 xu4 % er4 shi2 si4 nian2 % san1 yue4 $|光绪%二十四年%三月$
+5_5555_20220311008068|zai4 % jing1 shi1 % hui4 shi4 % zhong1 % bei4 % lu4 qu3 % wei4 $|在%京师%会试%中%被%录取%为$
+5_5555_20220311008069|yi2 ge4 yue4 % hou4 % de5 % si4 yue4 % er4 shi2 si4 ri4 % qing1 chen2 $|一个月%后%的%四月%二十四日%清晨$
+5_5555_20220311008070|can1 jia1 % dian4 shi4 % shi2 % bei4 % guang1 xu4 huang2 di4 % yu4 bi3 % qin1 dian3 % wei4 % zhuang4 yuan2 $|参加%殿试%时%被%光绪皇帝%御笔%钦点%为%状元$
+5_5555_20220311008071|cheng2 wei2 % gui4 zhou1 % di4 er4 ming2 % wen2 % zhuang4 yuan2 $|成为%贵州%第二名%文%状元$
+5_5555_20220311008072|xin1 hai4 ge2 ming4 % hou4 $|辛亥革命%后$
+5_5555_20220311008073|hui2 dao4 % gui4 zhou1 % dan1 ren4 % le5 % duan3 zan4 % de5 % gui4 zhou1 % zhong4 yi4 yuan4 % yi4 yuan2 $|回到%贵州%担任%了%短暂%的%贵州%众议院%议员$
+5_5555_20220311008074|hou4 % hui2 dao4 % bei3 jing1 $|后%回到%北京$
+5_5555_20220311008075|bei4 % tui1 xuan3 % wei4 % xian4 fa3 % qi3 cao3 % wei3 yuan2 hui4 % liu4 ming2 % li3 shi4 % zhi1 yi1 $|被%推选%为%宪法%起草%委员会%六名%理事%之一$
+5_5555_20220311008076|zhe4 bu4 % tong1 pian1 % guan4 chuan1 % zi1 chan3 jie1 ji2 % gong4 he2 % si1 xiang3 % de5 % xian4 fa3 % qi3 cao3 % xuan1 gao4 % wan2 cheng2 $|这部%通篇%贯穿%资产阶级%共和%思想%的%宪法%起草%宣告%完成$
+5_5555_20220311008077|que4 % yin1 % yuan2 shi4 kai3 % duo1 fang1 % zu3 nao2 % wei4 yu3 % ban1 xing2 % shi2 shi1 $|却%因%袁世凯%多方%阻挠%未予%颁行%实施$
+5_5555_20220311008078|hu2 nan2 % du1 du1 fu3 % gao1 deng3 % gu4 wen4 % guan1 $|湖南%都督府%高等%顾问%官$
+5_5555_20220311008079|jiang1 xi1 sheng3 % shou3 ren4 % shi2 ye4 % ting1 % ting1 zhang3 % deng3 % zhi2 $|江西省%首任%实业%厅%厅长%等%职$
+5_5555_20220311008080|zai4 % bei3 jing1 % pi3 chai2 % hu2 tong4 % jia1 zhong1 % qu4 shi4 $|在%北京%劈柴%胡同%家中%去世$
+5_5555_20220311008081|xiang3 nian2 % wu3 shi2 yi1 sui4 $|享年%五十一岁$
+5_5555_20220311008082|tu3 er3 qi2 % wai4 jiao1 zheng4 ce4 % yan2 jiu1 suo3 % suo3 zhang3 $|土耳其%外交政策%研究所%所长$
+5_5555_20220311008083|dui4 yu2 % tu3 er3 qi2 % lai2 shuo1 % zhe4 ci4 % hui4 tan2 % shi4 % yi1 ci4 % wai4 jiao1 % shang4 % de5 % cheng2 gong1 $|对于%土耳其%来说%这次%会谈%是%一次%外交%上%的%成功$
+5_5555_20220311008084|hui4 tan2 % bing4 % mei2 you3 % dai4 lai2 % jie2 shu4 % chong1 tu1 % zhe4 yi1 % jie2 guo3 $|会谈%并%没有%带来%结束%冲突%这一%结果$
+5_5555_20220311008085|dan4 shi4 % zhe4 shi4 % jin4 yi2 bu4 % tan2 pan4 % de5 % ji1 chu3 $|但是%这是%进一步%谈判%的%基础$
+5_5555_20220311008086|hen3 % you3 % ke3 neng2 % jie1 xia4 lai2 % hui4 % ji4 xu4 % jin4 xing2 % yi1 xi4 lie4 % de5 % tan2 pan4 $|很%有%可能%接下来%会%继续%进行%一系列%的%谈判$
+5_5555_20220311008087|tu3 er3 qi2 % wei4 % shuang1 fang1 % ti2 gong1 % le5 % ping2 tai2 $|土耳其%为%双方%提供%了%平台$
+5_5555_20220311008088|mu4 qian2 % e2 wu1 % shuang1 fang1 % de5 % li4 chang3 % bing4 % mei2 you3 % gai3 bian4 $|目前%俄乌%双方%的%立场%并%没有%改变$
+5_5555_20220311008089|dan4 shi4 % zhi4 shao3 % ta1 men5 % you3 % ji1 hui4 % xiang4 % wai4 jie4 % jie3 shi4 $|但是%至少%他们%有%机会%向%外界%解释$
+5_5555_20220311008090|mu4 qian2 % de5 % qing2 kuang4 % ru2 he2 $|目前%的%情况%如何$
+5_5555_20220311008091|ta1 men5 % shi4 % zen3 me5 % xiang3 % de5 $|他们%是%怎么%想%的$
+5_5555_20220311008092|you3 % shen2 me5 % su4 qiu2 $|有%什么%诉求$
+5_5555_20220311008093|zai4 % ta1 % kan4 lai2 % jin3 jin3 % yi1 kao4 % tu3 er3 qi2 % de5 % nu3 li4 % wu2 fa3 % shi2 xian4 % e2 wu1 % ting2 huo3 $|在%他%看来%仅仅%依靠%土耳其%的%努力%无法%实现%俄乌%停火$
+5_5555_20220311008094|wo3 % ren4 wei2 % tu3 er3 qi2 % wu2 fa3 % jie3 jue2 % zhe4 ge4 % wen4 ti2 $|我%认为%土耳其%无法%解决%这个%问题$
+5_5555_20220311008095|yin1 wei4 % zhe4 shi4 % e2 luo2 si1 % he2 % wu1 ke4 lan2 % de5 % chong1 tu1 $|因为%这是%俄罗斯%和%乌克兰%的%冲突$
+5_5555_20220311008096|shuang1 fang1 % dou1 % you3 % zi4 ji3 % de5 % li4 chang3 $|双方%都%有%自己%的%立场$
+5_5555_20220311008097|mu4 qian2 % wo3 men5 % zhi1 dao4 % e2 luo2 si1 % jun1 dui4 % bu2 hui4 % che4 tui4 $|目前%我们%知道%俄罗斯%军队%不会%撤退$
+5_5555_20220311008098|wu1 ke4 lan2 % ye3 % hui4 % ji4 xu4 % zhan4 dou4 $|乌克兰%也%会%继续%战斗$
+5_5555_20220311008099|ke3 neng2 % hai2 % xu1 yao4 % yi1 xi4 lie4 % de5 % tan2 pan4 % cai2 neng2 % da2 cheng2 % ting2 huo3 $|可能%还%需要%一系列%的%谈判%才能%达成%停火$
+5_5555_20220311008100|hai2 % xu1 yao4 % zai4 % mei3 guo2 % yu3 % e2 luo2 si1 $|还%需要%在%美国%与%俄罗斯$
