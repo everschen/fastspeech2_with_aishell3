@@ -1,7 +1,6 @@
-# fastspeech2 with aishell3 training and dataset stuff
+# fastspeech2 with own aishell3 dataset
 
-generated aishell3 content.txt and label_train-set.txt from magicdata trans.txt  
-MFA align procedure for your own dataset  
+There's lot's of issues you will meet if you want to train your own audio with aishell3, here provide a summary and solution to it 
 
 
 ## Table of Contents
@@ -30,6 +29,16 @@ for fastspeech2 you can refer to https://github.com/ming024/FastSpeech2
 ### 2. install MFA env to align your audio files
 ```
 conda create -n aligner -c conda-forge montreal-forced-aligner
+```	
+
+### 3. get the full lexicon for later use
+```
+./gen_lexicon.py
+```	
+
+### 3. config/AISHELL3/preprocess.yaml文件的lexicon_path: "lexicon/output.lexicon.txt"
+```
+./gen_lexicon.py
 ```	
 
 ### 3. get the full lexicon for later use
