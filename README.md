@@ -58,32 +58,30 @@ you can double check if all your words are in output.lexicon.txt use check_pinyi
 update lexicon_path of config/AISHELL3/preprocess.yaml
 ```	
 
-### 7. update sampling_rate of config/AISHELL3/preprocess.yaml to 44100
-```
-update sampling_rate of config/AISHELL3/preprocess.yaml
-```	
 
-### 8. do prepare_align.py to prepare raw_data\AISHELL3\
+### 7. do prepare_align.py to prepare raw_data\AISHELL3\
 ```
 python3 prepare_align.py config/AISHELL3/preprocess.yaml 
 ```	
 
-### 9. do mfa validate for your raw data and lexicon
+### 8. do mfa validate for your raw data and lexicon
 ```
+conda activate aligner
 mfa validate FastSpeech2/raw_data/AISHELL3/ FastSpeech2/lexicon/output.lexicon.txt
 ```	
 
-### 10. do mfa train to generate TextGrid and acoustic model
+### 9. do mfa train to generate TextGrid and acoustic model
 ```
 mfa train FastSpeech2/raw_data/AISHELL3/ FastSpeech2/lexicon/output.lexicon.txt FastSpeech2/acoustic_model/new_acoustic_model.zip FastSpeech2/preprocessed_data/AISHELL3/TextGrid/
+conda deactivate
 ```	
 
-### 11. do preprocess.py (need GPU)
+### 10. do preprocess.py (need GPU)
 ```
 python3 preprocess.py config/AISHELL3/preprocess.yaml
 ```	
 
-### 12. do train.py (need GPU)
+### 11. do train.py (need GPU)
 ```
 python3 train.py -p config/AISHELL3/preprocess.yaml -m config/AISHELL3/model.yaml -t config/AISHELL3/train.yaml
 ```	
