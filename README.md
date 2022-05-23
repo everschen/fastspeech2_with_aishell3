@@ -22,6 +22,22 @@ for fastspeech2 you can refer to https://github.com/ming024/FastSpeech2
 
 ## Usage
 
+### 1. resample if your own audio file is not same with aishell3 channels: 1(mono), Audio sample rate:44.100kHZ
+```
+./resample.py source_audio_file_path/ target_file_path/
+```	
+
+### 2. install MFA env to align your audio files
+```
+conda create -n aligner -c conda-forge montreal-forced-aligner
+```	
+
+### 3. get the full lexicon for later use
+```
+./gen_lexicon.py
+```	
+
+
 ### transform to label_train-set
 ```
  ./transform_trans_to_label_train-set.py TRANS.txt  
