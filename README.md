@@ -1,6 +1,6 @@
 # fastspeech2 with own aishell3 dataset
 
-There's lot's of issues you will meet if you want to train your own audio with aishell3, here provide a summary and solution to it 
+There's lot's of issues you will meet if you want to train your own audio with aishell3, here provide a summary and solution to it. 
 
 
 ## Table of Contents
@@ -31,19 +31,24 @@ for fastspeech2 you can refer to https://github.com/ming024/FastSpeech2
 conda create -n aligner -c conda-forge montreal-forced-aligner
 ```	
 
-### 3. get the full lexicon for later use
+### 3. get the full output.lexicon.txt and output.symbols, and put output.lexicon.txt to lexicon folder
 ```
-./gen_lexicon.py
+./generate_lexicon.py --with-tone --with-r output
 ```	
 
-### 3. config/AISHELL3/preprocess.yaml文件的lexicon_path: "lexicon/output.lexicon.txt"
+### 4. update lexicon_path of config/AISHELL3/preprocess.yaml to "lexicon/output.lexicon.txt"
 ```
-./gen_lexicon.py
+update lexicon_path of config/AISHELL3/preprocess.yaml
 ```	
 
-### 3. get the full lexicon for later use
+### 5. update sampling_rate of config/AISHELL3/preprocess.yaml to 44100
 ```
-./gen_lexicon.py
+update sampling_rate of config/AISHELL3/preprocess.yaml
+```	
+
+### 6. do prepare_align.py to prepare raw_data\AISHELL3\
+```
+python3 prepare_align.py config/AISHELL3/preprocess.yaml 
 ```	
 
 
