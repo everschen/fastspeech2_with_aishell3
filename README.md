@@ -50,4 +50,4 @@ for fastspeech2 you can refer to https://github.com/ming024/FastSpeech2
 
 ## License
 
-[MIT © Evers Chen.](../LICENSE)
+[MIT © Evers Chen.](LICENSE)
