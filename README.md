@@ -50,6 +50,7 @@ conda create -n aligner -c conda-forge montreal-forced-aligner
 ### 5. get the full output.lexicon.txt and output.symbols, and put output.lexicon.txt to lexicon folder
 ```
 ./generate_lexicon.py --with-tone --with-r output
+
 you can double check if all your words are in output.lexicon.txt use check_pinyin_in_lexicon_or_not.py, you may find some dataset error if not.
 ./check_pinyin_in_lexicon_or_not.py output.lexicon.txt pinyin.txt
 ./check_pinyin_in_lexicon_or_not.py pinyin-lexicon-r.txt pinyin.txt
@@ -89,7 +90,7 @@ python3 train.py -p config/AISHELL3/preprocess.yaml -m config/AISHELL3/model.yam
 ```	
 
 ### 12. correction to aishell3
-jv4 --> ju4
+jv4 --> ju4  
 din4 --> ding4
 
 
