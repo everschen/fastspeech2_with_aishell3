@@ -47,7 +47,7 @@ for fastspeech2 you can refer to https://github.com/ming024/FastSpeech2
 conda create -n aligner -c conda-forge montreal-forced-aligner
 ```	
 
-### 5. get the full output.lexicon.txt and output.symbols, and put output.lexicon.txt to lexicon folder
+### 5. in case lexicon/pinyin-lexicon-r.txt can't cover your words, get the full output.lexicon.txt and output.symbols and put output.lexicon.txt to lexicon folder, otherwise just skip this step.
 ```
 ./generate_lexicon.py --with-tone --with-r output
 
@@ -56,7 +56,7 @@ you can double check if all your words are in output.lexicon.txt use check_pinyi
 ./check_pinyin_in_lexicon_or_not.py pinyin-lexicon-r.txt pinyin.txt
 ```	
 
-### 6. update lexicon_path of config/AISHELL3/preprocess.yaml to "lexicon/output.lexicon.txt"
+### 6. in case lexicon/pinyin-lexicon-r.txt can't cover your words, and you need to use generated output.lexicon.txt, update lexicon_path of config/AISHELL3/preprocess.yaml to "lexicon/output.lexicon.txt"
 ```
 update lexicon_path of config/AISHELL3/preprocess.yaml
 ```	
