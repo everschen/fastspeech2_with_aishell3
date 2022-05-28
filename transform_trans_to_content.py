@@ -12,8 +12,6 @@ import re
 from pypinyin import pinyin, lazy_pinyin, Style
 
 if __name__ == '__main__':
-
-
     if (len(sys.argv)==2):
         with open(sys.argv[1], "r") as f:
             file_content = "content.txt"
@@ -30,7 +28,10 @@ if __name__ == '__main__':
                 print(len(ret),len(chinese))
                 result = ""
                 for i in range(len(ret)):
-                    result += " " + chinese[i] + " " + ret[i]
+                    if i == 0 :
+                        result += "\t" + chinese[i] + " " + ret[i]
+                    else:
+                        result += " " + chinese[i] + " " + ret[i]
                 fw.write(texts[0] + result + "\n")
                 print(texts)
             fw.close()
